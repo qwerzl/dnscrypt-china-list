@@ -32,6 +32,7 @@
 00544.com 119.29.29.29
 0061.com.au 119.29.29.29
 00615.net 119.29.29.29
+007.pub 119.29.29.29
 00791.com 119.29.29.29
 007hd.com 119.29.29.29
 007manhua.com 119.29.29.29
@@ -1304,7 +1305,6 @@
 15yl.com 119.29.29.29
 160.com 119.29.29.29
 160.me 119.29.29.29
-160edu.net 119.29.29.29
 160yx.com 119.29.29.29
 161580.com 119.29.29.29
 1616.net 119.29.29.29
@@ -11746,7 +11746,6 @@ braincf.com 119.29.29.29
 brand4x4.com 119.29.29.29
 brandcn.com 119.29.29.29
 brandvista.com 119.29.29.29
-brandzg.com 119.29.29.29
 brbtyt.com 119.29.29.29
 breadtrip.com 119.29.29.29
 breakingnewsireland.com 119.29.29.29
@@ -12293,7 +12292,6 @@ cafachine.com 119.29.29.29
 cafagame.com 119.29.29.29
 cafamuseum.org 119.29.29.29
 cafebeta.com 119.29.29.29
-cafecole-maison.com 119.29.29.29
 caffci.org 119.29.29.29
 caffeenglish.com 119.29.29.29
 cagetest.com 119.29.29.29
@@ -13389,6 +13387,7 @@ cha127.com 119.29.29.29
 chabeichong.com 119.29.29.29
 chachaba.com 119.29.29.29
 chachaqu.com 119.29.29.29
+chacheliang.com 119.29.29.29
 chachongba.cc 119.29.29.29
 chacuo.net 119.29.29.29
 chadan.wang 119.29.29.29
@@ -13425,6 +13424,7 @@ chairyfish.com 119.29.29.29
 chaishiguan.com 119.29.29.29
 chaitin.com 119.29.29.29
 chajiandaquan.com 119.29.29.29
+chajiaotong.com 119.29.29.29
 chajie.com 119.29.29.29
 chajn.org 119.29.29.29
 chakahao.com 119.29.29.29
@@ -21099,7 +21099,6 @@ ext2fsd.com 119.29.29.29
 extfans.com 119.29.29.29
 exthin.net 119.29.29.29
 extmail.org 119.29.29.29
-extremep2p.com 119.29.29.29
 extron-tech.com 119.29.29.29
 extstars.com 119.29.29.29
 exuanfang.cc 119.29.29.29
@@ -28513,6 +28512,7 @@ hyrainbow.com 119.29.29.29
 hysdknb.com 119.29.29.29
 hysec.com 119.29.29.29
 hysemi-ic.com 119.29.29.29
+hyshi.net 119.29.29.29
 hysteeltube.com 119.29.29.29
 hyt368.com 119.29.29.29
 hytcshare.com 119.29.29.29
@@ -31041,7 +31041,6 @@ jdxlt.com 119.29.29.29
 jdxs5200.net 119.29.29.29
 jdxzz.com 119.29.29.29
 jdy.com 119.29.29.29
-jdy8848.com 119.29.29.29
 jdycdn.com 119.29.29.29
 jdyou.com 119.29.29.29
 jdypf.com 119.29.29.29
@@ -33445,7 +33444,6 @@ kaobeitu.com 119.29.29.29
 kaocat.com 119.29.29.29
 kaochong.com 119.29.29.29
 kaoder.com 119.29.29.29
-kaodianer.com 119.29.29.29
 kaogua.com 119.29.29.29
 kaojionline.com 119.29.29.29
 kaola.com.hk 119.29.29.29
@@ -37905,7 +37903,6 @@ mch5k.com 119.29.29.29
 mchat.com 119.29.29.29
 mchifi.com 119.29.29.29
 mcidc.net 119.29.29.29
-mcjcjx.com 119.29.29.29
 mcjd.net 119.29.29.29
 mcmssc.com 119.29.29.29
 mcooks.com 119.29.29.29
@@ -44173,6 +44170,7 @@ qiyewenhua.net 119.29.29.29
 qiyexinyong.org 119.29.29.29
 qiyexun.com 119.29.29.29
 qiyexxw.com 119.29.29.29
+qiyeyougou.com 119.29.29.29
 qiyeyouxiang.net 119.29.29.29
 qiyi.com 119.29.29.29
 qiyicc.com 119.29.29.29
@@ -51508,7 +51506,6 @@ tiprpress.com 119.29.29.29
 tips1000.com 119.29.29.29
 tiqiaa.com 119.29.29.29
 tiqianle.com 119.29.29.29
-tired.im 119.29.29.29
 tiruna-cn.com 119.29.29.29
 tisgame.com 119.29.29.29
 tisino.com 119.29.29.29
@@ -56444,6 +56441,7 @@ write-bug.com 119.29.29.29
 writebp.com 119.29.29.29
 wrjzj.com 119.29.29.29
 wrkdih.com 119.29.29.29
+wrl163.com 119.29.29.29
 wrltxt.com 119.29.29.29
 wrmjk.com 119.29.29.29
 wrsa.net 119.29.29.29
@@ -58122,7 +58120,6 @@ xindi02.site 119.29.29.29
 xindie.net 119.29.29.29
 xindingwealth.com 119.29.29.29
 xindns.com 119.29.29.29
-xindns.mobi 119.29.29.29
 xindong.com 119.29.29.29
 xinduihuan.com 119.29.29.29
 xinduo.com 119.29.29.29
@@ -65222,6 +65219,7 @@ zzzzmall.com 119.29.29.29
 zzzzzz.me 119.29.29.29
 265.com 119.29.29.29
 2mdn-cn.net 119.29.29.29
+2mdn.net 119.29.29.29
 admob-cn.com 119.29.29.29
 app-measurement-cn.com 119.29.29.29
 app-measurement.com 119.29.29.29
@@ -65230,6 +65228,7 @@ beacons.gvt2.com 119.29.29.29
 beacons2.gvt2.com 119.29.29.29
 beacons3.gvt2.com 119.29.29.29
 c.admob.com 119.29.29.29
+checkin.gstatic.com 119.29.29.29
 clickserve.dartsearch.net 119.29.29.29
 clientservices.googleapis.com 119.29.29.29
 connectivitycheck.gstatic.com 119.29.29.29
@@ -65238,6 +65237,7 @@ doubleclick-cn.net 119.29.29.29
 doubleclick.net 119.29.29.29
 firebase-settings.crashlytics.com 119.29.29.29
 fonts.googleapis.com 119.29.29.29
+fonts.gstatic.com 119.29.29.29
 g1.gstatic.com 119.29.29.29
 g2.gstatic.com 119.29.29.29
 google-analytics-cn.com 119.29.29.29
@@ -65253,7 +65253,6 @@ googleoptimize.com 119.29.29.29
 googlesyndication-cn.com 119.29.29.29
 googlesyndication.com 119.29.29.29
 googletagmanager-cn.com 119.29.29.29
-googletagmanager.com 119.29.29.29
 googletagservices-cn.com 119.29.29.29
 googletagservices.com 119.29.29.29
 googletraveladservices-cn.com 119.29.29.29
