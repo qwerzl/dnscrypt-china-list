@@ -1,0 +1,32 @@
+name: "Build"
+
+on:
+  workflow_dispatch: ~
+  schedule:
+    - cron: '00 01,13 * * *'
+    
+jobs:
+  Build-Server-Jar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+            submodules: recursive
+      - name: Update submodule
+        run: git submodule update --remote
+      - name: Generate file
+        run: bash -c "cd dnsmasq-china-list && make SERVER=119.29.29.29 dnscrypt-proxy"
+      - name: Move file
+        run: mv dnsmasq-china-list/dnscrypt-proxy-forwarding-rules.txt .
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add ./*
+          git commit -m "Add changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
