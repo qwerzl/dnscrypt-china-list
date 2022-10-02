@@ -3,10 +3,10 @@ name: "Build"
 on:
   workflow_dispatch: ~
   schedule:
-    - cron: '00 01,13 * * *'
+    - cron: '0 */2 * * *'
     
 jobs:
-  Build-Server-Jar:
+  Generate-List:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
