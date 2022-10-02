@@ -4309,6 +4309,7 @@
 521szlx.com 119.29.29.29
 521tieba.com 119.29.29.29
 521up.com 119.29.29.29
+521wmy.com 119.29.29.29
 52237377.com 119.29.29.29
 522g.com 119.29.29.29
 523333.com 119.29.29.29
@@ -33179,6 +33180,7 @@ jzongguan.com 119.29.29.29
 jzrb.com 119.29.29.29
 jzrc.net 119.29.29.29
 jzrsrc.com 119.29.29.29
+jzsadlkfadf.com 119.29.29.29
 jzsc.net 119.29.29.29
 jzsc8.com 119.29.29.29
 jzsgzmhjyxgs.com 119.29.29.29
@@ -41471,6 +41473,7 @@ ooogo.com 119.29.29.29
 ooopic.com 119.29.29.29
 ooopn.com 119.29.29.29
 ooppoo.com 119.29.29.29
+ootu.cc 119.29.29.29
 oouee.com 119.29.29.29
 oouyan.com 119.29.29.29
 ooxx.me 119.29.29.29
@@ -43847,6 +43850,7 @@ qiigame.com 119.29.29.29
 qijee.com 119.29.29.29
 qiji.tech 119.29.29.29
 qijiadianzi.com 119.29.29.29
+qijian99.com 119.29.29.29
 qijianzs.com 119.29.29.29
 qijiapay.com 119.29.29.29
 qijiarui-test.com 119.29.29.29
@@ -44405,6 +44409,7 @@ qqopenapp.com 119.29.29.29
 qqpao.com 119.29.29.29
 qqpifu.com 119.29.29.29
 qqppt.com 119.29.29.29
+qqpss.cc 119.29.29.29
 qqq.tv 119.29.29.29
 qqqiyemail.com 119.29.29.29
 qqqnm.com 119.29.29.29
@@ -47321,7 +47326,6 @@ shicishe.com 119.29.29.29
 shiciyun.com 119.29.29.29
 shida66.com 119.29.29.29
 shidaedu.vip 119.29.29.29
-shidaiyuhu.com 119.29.29.29
 shidapx.com 119.29.29.29
 shidastudy.com 119.29.29.29
 shidi.org 119.29.29.29
@@ -48587,6 +48591,7 @@ smtcl.com 119.29.29.29
 smtdc.com 119.29.29.29
 smth.org 119.29.29.29
 smthome.net 119.29.29.29
+smtlzb.com 119.29.29.29
 smtsvs.com 119.29.29.29
 smttouch.com 119.29.29.29
 smtvip.com 119.29.29.29
@@ -49796,7 +49801,6 @@ swaeab.com 119.29.29.29
 swakopuranium.com 119.29.29.29
 swang8.com 119.29.29.29
 swansea86.com 119.29.29.29
-swansonchina.com 119.29.29.29
 swap.wang 119.29.29.29
 swaqds.com 119.29.29.29
 swarma.net 119.29.29.29
@@ -50628,6 +50632,7 @@ taokezhushou.com 119.29.29.29
 taokouling.com 119.29.29.29
 taoku.com 119.29.29.29
 taolusm.com 119.29.29.29
+taoluzhibo56.com 119.29.29.29
 taolx.com 119.29.29.29
 taomanhua.com 119.29.29.29
 taomee.com 119.29.29.29
@@ -58517,6 +58522,7 @@ xixiqipai.com 119.29.29.29
 xixisys.com 119.29.29.29
 xixiwg.com 119.29.29.29
 xiyacs.com 119.29.29.29
+xiyamaoyi.com 119.29.29.29
 xiyang1.icu 119.29.29.29
 xiyijiang.com 119.29.29.29
 xiyin.life 119.29.29.29
