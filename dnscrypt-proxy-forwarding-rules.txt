@@ -3421,7 +3421,6 @@
 42927bj.com 119.29.29.29
 42927gz.com 119.29.29.29
 42927xz.com 119.29.29.29
-42hq.com 119.29.29.29
 42trip.com 119.29.29.29
 42xz.com 119.29.29.29
 4311.com 119.29.29.29
@@ -7676,7 +7675,6 @@ ahhhjx.com 119.29.29.29
 ahhouse.com 119.29.29.29
 ahhtzx.com 119.29.29.29
 ahhwdp.com 119.29.29.29
-ahhxcm.com 119.29.29.29
 ahjdq.com 119.29.29.29
 ahjem.com 119.29.29.29
 ahjgxy.com 119.29.29.29
@@ -10724,7 +10722,6 @@ bigehudong.com 119.29.29.29
 bigemao.com 119.29.29.29
 bigeniao.com 119.29.29.29
 bigerdata.com 119.29.29.29
-bigertech.com 119.29.29.29
 bigeshuju.com 119.29.29.29
 biggerlens.com 119.29.29.29
 biggeryun.com 119.29.29.29
@@ -13430,7 +13427,6 @@ chairyfish.com 119.29.29.29
 chaishiguan.com 119.29.29.29
 chaitin.com 119.29.29.29
 chajiandaquan.com 119.29.29.29
-chajiaotong.com 119.29.29.29
 chajie.com 119.29.29.29
 chajn.org 119.29.29.29
 chakahao.com 119.29.29.29
@@ -25345,7 +25341,6 @@ haizhuyx.com 119.29.29.29
 haizitong.com 119.29.29.29
 haizol.com 119.29.29.29
 hakaimg.com 119.29.29.29
-haku77.com 119.29.29.29
 halade.com 119.29.29.29
 halaha.com 119.29.29.29
 halead.com 119.29.29.29
@@ -28201,7 +28196,6 @@ huobanniu.com 119.29.29.29
 huobanxietong.com 119.29.29.29
 huobaowang.com 119.29.29.29
 huobaoyx.com 119.29.29.29
-huobi.com.gi 119.29.29.29
 huobi.io 119.29.29.29
 huocai.com 119.29.29.29
 huocc.com 119.29.29.29
@@ -35239,7 +35233,6 @@ leconginfo.com 119.29.29.29
 lecoo.com 119.29.29.29
 lecoo8.com 119.29.29.29
 lecuntao.com 119.29.29.29
-leda13.com 119.29.29.29
 ledanji.com 119.29.29.29
 ledboke.com 119.29.29.29
 ledcax.com 119.29.29.29
@@ -38505,6 +38498,7 @@ microlensyh.com 119.29.29.29
 microlz.com 119.29.29.29
 micromouse.tech 119.29.29.29
 microrui.net 119.29.29.29
+microsoft-yuncdn.com 119.29.29.29
 microstern.com 119.29.29.29
 microvcard.com 119.29.29.29
 microvirt.com 119.29.29.29
@@ -38747,7 +38741,6 @@ miniui.com 119.29.29.29
 minixiazai.com 119.29.29.29
 miniyounger.com 119.29.29.29
 minor-tech.com 119.29.29.29
-minqingguancha.com 119.29.29.29
 minra.com 119.29.29.29
 minrank.com 119.29.29.29
 minretail.com 119.29.29.29
@@ -39057,6 +39050,7 @@ mocuz.com 119.29.29.29
 modao.cc 119.29.29.29
 modao.com 119.29.29.29
 modao.io 119.29.29.29
+modb.cc 119.29.29.29
 modb.pro 119.29.29.29
 modeng178.com 119.29.29.29
 modernsky.com 119.29.29.29
@@ -40541,7 +40535,6 @@ nihao.net 119.29.29.29
 nihaodd.com 119.29.29.29
 nihaotw.com 119.29.29.29
 nihaowang.com 119.29.29.29
-nihontu-cn.com 119.29.29.29
 nihuwo.net 119.29.29.29
 niiceda.com 119.29.29.29
 niiwoo.com 119.29.29.29
@@ -41886,6 +41879,7 @@ p512.com 119.29.29.29
 p5w.net 119.29.29.29
 p8games.com 119.29.29.29
 p99998888.com 119.29.29.29
+pa.ci 119.29.29.29
 pa18.com 119.29.29.29
 pa1pa.com 119.29.29.29
 paahu.com 119.29.29.29
@@ -42662,7 +42656,6 @@ pinpaing.com 119.29.29.29
 pinpaiv.com 119.29.29.29
 pinqugongxiangktv.com 119.29.29.29
 pinshan.com 119.29.29.29
-pinshiwen.com 119.29.29.29
 pinshu.com 119.29.29.29
 pinsilianzu1.com 119.29.29.29
 pinsilianzu3.com 119.29.29.29
@@ -43400,7 +43393,6 @@ qb5200.co 119.29.29.29
 qb5200.tw 119.29.29.29
 qbangmang.com 119.29.29.29
 qbao.com 119.29.29.29
-qbaobei.com 119.29.29.29
 qbaoting.com 119.29.29.29
 qbb6.com 119.29.29.29
 qbdcc.com 119.29.29.29
@@ -44185,7 +44177,6 @@ qiye.net 119.29.29.29
 qiye163.com 119.29.29.29
 qiye8848.com 119.29.29.29
 qiyegongqiu.com 119.29.29.29
-qiyegongqiu.net 119.29.29.29
 qiyeku.com 119.29.29.29
 qiyenet.net 119.29.29.29
 qiyeshangpu.com 119.29.29.29
@@ -53926,7 +53917,6 @@ vipbuluo.com 119.29.29.29
 vipchina.com 119.29.29.29
 vipcn.com 119.29.29.29
 vipcto.com 119.29.29.29
-vipdage.com 119.29.29.29
 vipersaudio.com 119.29.29.29
 vipfengfei.com 119.29.29.29
 vipfengxiao.com 119.29.29.29
@@ -59761,7 +59751,6 @@ yangyongquan.com 119.29.29.29
 yangyq.net 119.29.29.29
 yangzhe1991.org 119.29.29.29
 yangzhiping.com 119.29.29.29
-yangzhiriji.com 119.29.29.29
 yangzhix.com 119.29.29.29
 yangzhongchao.com 119.29.29.29
 yangzijiang.com 119.29.29.29
@@ -63430,7 +63419,6 @@ zhideyimai.com 119.29.29.29
 zhidian3g.com 119.29.29.29
 zhidieyun.com 119.29.29.29
 zhiding0603.com 119.29.29.29
-zhidiy.com 119.29.29.29
 zhidj.com 119.29.29.29
 zhidmai.com 119.29.29.29
 zhiduopc.com 119.29.29.29
@@ -63674,7 +63662,6 @@ zhongguojixiewang.com 119.29.29.29
 zhongguomap.com 119.29.29.29
 zhongguopeixun.net 119.29.29.29
 zhongguose.com 119.29.29.29
-zhongguoseo.net 119.29.29.29
 zhongguoshici.com 119.29.29.29
 zhongguosou.com 119.29.29.29
 zhongguowangshi.com 119.29.29.29
@@ -65291,6 +65278,7 @@ zzzzzz.me 119.29.29.29
 2mdn-cn.net 119.29.29.29
 2mdn.net 119.29.29.29
 admob-cn.com 119.29.29.29
+adservice.google.com 119.29.29.29
 app-measurement-cn.com 119.29.29.29
 app-measurement.com 119.29.29.29
 beacons.gcp.gvt2.com 119.29.29.29
@@ -65298,11 +65286,18 @@ beacons.gvt2.com 119.29.29.29
 beacons2.gvt2.com 119.29.29.29
 beacons3.gvt2.com 119.29.29.29
 c.admob.com 119.29.29.29
+c.android.clients.google.com 119.29.29.29
+cache.pack.google.com 119.29.29.29
 checkin.gstatic.com 119.29.29.29
 clickserve.dartsearch.net 119.29.29.29
 clientservices.googleapis.com 119.29.29.29
 connectivitycheck.gstatic.com 119.29.29.29
+corp.google.com 119.29.29.29
+crl.pki.goog 119.29.29.29
+csi.gstatic.com 119.29.29.29
 dartsearch-cn.net 119.29.29.29
+dl.google.com 119.29.29.29
+dl.l.google.com 119.29.29.29
 doubleclick-cn.net 119.29.29.29
 doubleclick.net 119.29.29.29
 firebase-settings.crashlytics.com 119.29.29.29
@@ -65323,19 +65318,30 @@ googleoptimize.com 119.29.29.29
 googlesyndication-cn.com 119.29.29.29
 googlesyndication.com 119.29.29.29
 googletagmanager-cn.com 119.29.29.29
+googletagmanager.com 119.29.29.29
 googletagservices-cn.com 119.29.29.29
 googletagservices.com 119.29.29.29
 googletraveladservices-cn.com 119.29.29.29
 googlevads-cn.com 119.29.29.29
+gstaticadssl.l.google.com 119.29.29.29
+gtm.oasisfeng.com 119.29.29.29
 gvt1-cn.com 119.29.29.29
 gvt2-cn.com 119.29.29.29
 imasdk.googleapis.com 119.29.29.29
+ocsp.pki.goog 119.29.29.29
+pagead-googlehosted.l.google.com 119.29.29.29
+pki-goog.l.google.com 119.29.29.29
 recaptcha.net 119.29.29.29
 redirector.gvt1.com 119.29.29.29
 regioninfo-pa.googleapis.com 119.29.29.29
 safebrowsing.googleapis.com 119.29.29.29
+ssl-google-analytics.l.google.com 119.29.29.29
 ssl.gstatic.com 119.29.29.29
+tools.google.com 119.29.29.29
+tools.l.google.com 119.29.29.29
 update.googleapis.com 119.29.29.29
+www-google-analytics.l.google.com 119.29.29.29
+www-googletagmanager.l.google.com 119.29.29.29
 www.gstatic.com 119.29.29.29
 a1.mzstatic.com 119.29.29.29
 a2.mzstatic.com 119.29.29.29
