@@ -2447,7 +2447,6 @@
 2j88.com 119.29.29.29
 2jianli.com 119.29.29.29
 2k2k.com 119.29.29.29
-2kandy.com 119.29.29.29
 2kb.com 119.29.29.29
 2ktq.com 119.29.29.29
 2ktvb.com 119.29.29.29
@@ -6305,6 +6304,7 @@
 8hsleep.com 119.29.29.29
 8jdns.net 119.29.29.29
 8jiaoye.com 119.29.29.29
+8jie8.com 119.29.29.29
 8jj.cc 119.29.29.29
 8jxn.com 119.29.29.29
 8jzw.cc 119.29.29.29
@@ -7260,6 +7260,7 @@ abcs8.com 119.29.29.29
 abctang.com 119.29.29.29
 abcve.com 119.29.29.29
 abcxs.com 119.29.29.29
+abcxyzkk.xyz 119.29.29.29
 abcydia.com 119.29.29.29
 abd007.com 119.29.29.29
 abdstem.com 119.29.29.29
@@ -18100,6 +18101,7 @@ dfhon.com 119.29.29.29
 dfhtjn.com 119.29.29.29
 dfkcgs.com 119.29.29.29
 dfkhgj.com 119.29.29.29
+dfkj.cc 119.29.29.29
 dfmc.com 119.29.29.29
 dfmcastrol.com 119.29.29.29
 dfmingya.com 119.29.29.29
@@ -20601,6 +20603,7 @@ emui.tech 119.29.29.29
 emuia.com 119.29.29.29
 emulatedlab.com 119.29.29.29
 emumax.com 119.29.29.29
+emupic.com 119.29.29.29
 emushroom.net 119.29.29.29
 emwan.com 119.29.29.29
 emyard.com 119.29.29.29
@@ -27595,6 +27598,7 @@ htgj.com 119.29.29.29
 htgjjl.com 119.29.29.29
 htguosheng.com 119.29.29.29
 htgwf.com 119.29.29.29
+hthdo.com 119.29.29.29
 hthl.net 119.29.29.29
 htidc.com 119.29.29.29
 htinfor.com 119.29.29.29
@@ -29287,7 +29291,6 @@ ifenguo.com 119.29.29.29
 ifengweekly.com 119.29.29.29
 ifengwoo.com 119.29.29.29
 ifensi.com 119.29.29.29
-ifenso.net 119.29.29.29
 ifenxi.com 119.29.29.29
 ifere.com 119.29.29.29
 ifeve.com 119.29.29.29
@@ -33598,7 +33601,6 @@ keda-u.com 119.29.29.29
 keda.com 119.29.29.29
 kedang.net 119.29.29.29
 keddoo.com 119.29.29.29
-kede.com.hk 119.29.29.29
 kede.com 119.29.29.29
 kedi.cc 119.29.29.29
 kedou.com 119.29.29.29
@@ -38560,6 +38562,7 @@ migelab.com 119.29.29.29
 migroom.com 119.29.29.29
 migucloud.com 119.29.29.29
 migufun.com 119.29.29.29
+migugu.com 119.29.29.29
 migutv.com 119.29.29.29
 miguvideo.com 119.29.29.29
 miguyu.com 119.29.29.29
@@ -43031,7 +43034,6 @@ ppm2.com 119.29.29.29
 ppmake.com 119.29.29.29
 ppmm.org 119.29.29.29
 ppmoney.com 119.29.29.29
-ppmoney.net 119.29.29.29
 ppnames.com 119.29.29.29
 pppet.net 119.29.29.29
 pppie.com 119.29.29.29
@@ -43151,6 +43153,7 @@ proya-group.com 119.29.29.29
 proya.com 119.29.29.29
 proyy.com 119.29.29.29
 prts.wiki 119.29.29.29
+prxxff.com 119.29.29.29
 przhushou.com 119.29.29.29
 przwt.com 119.29.29.29
 ps123.net 119.29.29.29
@@ -45960,7 +45963,6 @@ s5tx.com 119.29.29.29
 s60sky.com 119.29.29.29
 s72c.com 119.29.29.29
 s8dj.com 119.29.29.29
-s8j.com 119.29.29.29
 s8x1.com 119.29.29.29
 s8xs.com 119.29.29.29
 s936.com 119.29.29.29
@@ -49598,6 +49600,7 @@ sumrday.net 119.29.29.29
 sumscope.com 119.29.29.29
 sumsz.com 119.29.29.29
 sumygg.com 119.29.29.29
+sumzc.com 119.29.29.29
 sun-ada.net 119.29.29.29
 sun-lion.com 119.29.29.29
 sun-wish.com 119.29.29.29
@@ -51843,6 +51846,7 @@ tonglu-tour.com 119.29.29.29
 tongluyizhao.com 119.29.29.29
 tongmengguo.com 119.29.29.29
 tongshanbank.com 119.29.29.29
+tongshilu.com 119.29.29.29
 tongshuai.com 119.29.29.29
 tongtaiamc.com 119.29.29.29
 tongtech.com 119.29.29.29
@@ -56496,6 +56500,7 @@ writebp.com 119.29.29.29
 wrjzj.com 119.29.29.29
 wrkdih.com 119.29.29.29
 wrl163.com 119.29.29.29
+wrlsw.com 119.29.29.29
 wrltxt.com 119.29.29.29
 wrmjk.com 119.29.29.29
 wrsa.net 119.29.29.29
