@@ -6986,6 +6986,7 @@
 99hdf.com 119.29.29.29
 99hkjf.com 119.29.29.29
 99huizhou.com 119.29.29.29
+99huodong.xyz 119.29.29.29
 99ielts.com 119.29.29.29
 99inn.cc 119.29.29.29
 99jianzhu.com 119.29.29.29
@@ -9343,7 +9344,6 @@ autojingji.com 119.29.29.29
 autojkd.com 119.29.29.29
 autojs.org 119.29.29.29
 autonavi.com 119.29.29.29
-autono1.com 119.29.29.29
 autoparts-yoto.com 119.29.29.29
 autophagy.net 119.29.29.29
 autoplansearch.com 119.29.29.29
@@ -10206,6 +10206,7 @@ bctest.com 119.29.29.29
 bctmo.com 119.29.29.29
 bcty365.com 119.29.29.29
 bcvbw.com 119.29.29.29
+bcwangluo.net 119.29.29.29
 bcweibo.com 119.29.29.29
 bcwhy.com 119.29.29.29
 bcwxfy.com 119.29.29.29
@@ -11859,6 +11860,7 @@ btophr.com 119.29.29.29
 btorange.com 119.29.29.29
 btpig.com 119.29.29.29
 btplay.net 119.29.29.29
+btqsam.com 119.29.29.29
 btrcsc.com 119.29.29.29
 btsabc.org 119.29.29.29
 btschool.net 119.29.29.29
@@ -13918,6 +13920,7 @@ china-re.net 119.29.29.29
 china-reform.org 119.29.29.29
 china-ric.com 119.29.29.29
 china-riscv.com 119.29.29.29
+china-rty.com 119.29.29.29
 china-russia.org 119.29.29.29
 china-see.com 119.29.29.29
 china-seeq.com 119.29.29.29
@@ -15147,6 +15150,7 @@ cloudcsp.com 119.29.29.29
 clouddcs.com 119.29.29.29
 clouddiffuse.xyz 119.29.29.29
 clouddn.com 119.29.29.29
+clouddns.vip 119.29.29.29
 clouddream.net 119.29.29.29
 cloudgap.net 119.29.29.29
 cloudgfw.com 119.29.29.29
@@ -18536,6 +18540,7 @@ dituwuyou.com 119.29.29.29
 diugai.com 119.29.29.29
 div.io 119.29.29.29
 divcss5.com 119.29.29.29
+divetgallery.com 119.29.29.29
 diwenganzaoji.com 119.29.29.29
 diwork.com 119.29.29.29
 dixintong.com 119.29.29.29
@@ -35476,6 +35481,7 @@ lexar.com 119.29.29.29
 lexiang-asset.com 119.29.29.29
 lexiangjian.com 119.29.29.29
 lexiangla.com 119.29.29.29
+lexiangzuji.com 119.29.29.29
 lexin.com 119.29.29.29
 lexinchina.com 119.29.29.29
 lexue.com 119.29.29.29
@@ -39766,6 +39772,7 @@ myicloud.vip 119.29.29.29
 myie.me 119.29.29.29
 myie9.com 119.29.29.29
 myip.la 119.29.29.29
+myipadbox.com 119.29.29.29
 myiplay.com 119.29.29.29
 myir-tech.com 119.29.29.29
 myirtech.com 119.29.29.29
@@ -40450,6 +40457,7 @@ ngarihealth.com 119.29.29.29
 ngbbs.com 119.29.29.29
 ngcgears.com 119.29.29.29
 ngctransmission.com 119.29.29.29
+ngevnsmk5.com 119.29.29.29
 ngfans.net 119.29.29.29
 ngh6.com 119.29.29.29
 nginstar.net 119.29.29.29
@@ -44266,6 +44274,7 @@ qlotc.net 119.29.29.29
 qlpw.net 119.29.29.29
 qlrc.com 119.29.29.29
 qls.fun 119.29.29.29
+qlspx.com 119.29.29.29
 qlteacher.com 119.29.29.29
 qluu.com 119.29.29.29
 qlwmw.com 119.29.29.29
@@ -45897,6 +45906,7 @@ rybbaby.com 119.29.29.29
 ryc360.com 119.29.29.29
 rydth5.com 119.29.29.29
 ryeex.com 119.29.29.29
+rygjaqjaq.com 119.29.29.29
 ryjiaoyu.com 119.29.29.29
 ryjoin.com 119.29.29.29
 rylinkworld.com 119.29.29.29
@@ -48965,6 +48975,7 @@ souldee.com 119.29.29.29
 soulgame.mobi 119.29.29.29
 souluo.net 119.29.29.29
 soulv.com 119.29.29.29
+soulwonderland.com 119.29.29.29
 soundai.info 119.29.29.29
 soupan.info 119.29.29.29
 soupf.net 119.29.29.29
@@ -62277,7 +62288,6 @@ ywork.me 119.29.29.29
 ywshouyou.com 119.29.29.29
 ywsoftware.com 119.29.29.29
 ywtd.xyz 119.29.29.29
-ywtlfishing.com 119.29.29.29
 ywtrzm.com 119.29.29.29
 ywtuchuang1.com 119.29.29.29
 ywtx.cc 119.29.29.29
@@ -64995,6 +65005,7 @@ zwtxipr.com 119.29.29.29
 zwwdm.com 119.29.29.29
 zwwltkl.com 119.29.29.29
 zwwx.com 119.29.29.29
+zwzrent.com 119.29.29.29
 zwzsh.net 119.29.29.29
 zwzyzx.com 119.29.29.29
 zx-casting.com 119.29.29.29
@@ -65272,6 +65283,8 @@ zzzzzz.me 119.29.29.29
 265.com 119.29.29.29
 2mdn-cn.net 119.29.29.29
 2mdn.net 119.29.29.29
+accounts.xn--9trs65b.com 119.29.29.29
+accounts.xn--ggle-55da.com 119.29.29.29
 admob-cn.com 119.29.29.29
 adservice.google.com 119.29.29.29
 app-measurement-cn.com 119.29.29.29
@@ -65282,6 +65295,7 @@ beacons2.gvt2.com 119.29.29.29
 beacons3.gvt2.com 119.29.29.29
 c.admob.com 119.29.29.29
 c.android.clients.google.com 119.29.29.29
+cache-management-prod.google.com 119.29.29.29
 cache.pack.google.com 119.29.29.29
 checkin.gstatic.com 119.29.29.29
 clickserve.dartsearch.net 119.29.29.29
@@ -65298,8 +65312,13 @@ doubleclick.net 119.29.29.29
 firebase-settings.crashlytics.com 119.29.29.29
 fonts.googleapis.com 119.29.29.29
 fonts.gstatic.com 119.29.29.29
+g0.gstatic.com 119.29.29.29
 g1.gstatic.com 119.29.29.29
 g2.gstatic.com 119.29.29.29
+g3.gstatic.com 119.29.29.29
+gcpnode.com 119.29.29.29
+gonglchuangl.net 119.29.29.29
+gongyichuangyi.net 119.29.29.29
 google-analytics-cn.com 119.29.29.29
 google-analytics.com 119.29.29.29
 googleadservices-cn.com 119.29.29.29
@@ -65310,6 +65329,7 @@ googleapps-cn.com 119.29.29.29
 googleflights-cn.net 119.29.29.29
 googleoptimize-cn.com 119.29.29.29
 googleoptimize.com 119.29.29.29
+googleplex.com 119.29.29.29
 googlesyndication-cn.com 119.29.29.29
 googlesyndication.com 119.29.29.29
 googletagmanager-cn.com 119.29.29.29
@@ -65317,7 +65337,10 @@ googletagmanager.com 119.29.29.29
 googletagservices-cn.com 119.29.29.29
 googletagservices.com 119.29.29.29
 googletraveladservices-cn.com 119.29.29.29
+googletraveladservices.com 119.29.29.29
 googlevads-cn.com 119.29.29.29
+goto.google.com 119.29.29.29
+gstatic-cn.com 119.29.29.29
 gstaticadssl.l.google.com 119.29.29.29
 gtm.oasisfeng.com 119.29.29.29
 gvt1-cn.com 119.29.29.29
@@ -65326,18 +65349,27 @@ imasdk.googleapis.com 119.29.29.29
 ocsp.pki.goog 119.29.29.29
 pagead-googlehosted.l.google.com 119.29.29.29
 pki-goog.l.google.com 119.29.29.29
+prod-controlbe.floonet.goog 119.29.29.29
+prod-databe.floonet.goog 119.29.29.29
 recaptcha.net 119.29.29.29
 redirector.gvt1.com 119.29.29.29
 regioninfo-pa.googleapis.com 119.29.29.29
 safebrowsing.googleapis.com 119.29.29.29
+settings.xn--9trs65b.com 119.29.29.29
 ssl-google-analytics.l.google.com 119.29.29.29
 ssl.gstatic.com 119.29.29.29
+staging-controlbe.floonet.goog 119.29.29.29
+staging-databe.floonet.goog 119.29.29.29
 tools.google.com 119.29.29.29
 tools.l.google.com 119.29.29.29
+up.corp.goog 119.29.29.29
 update.googleapis.com 119.29.29.29
 www-google-analytics.l.google.com 119.29.29.29
 www-googletagmanager.l.google.com 119.29.29.29
 www.gstatic.com 119.29.29.29
+www.pxcc.com 119.29.29.29
+xn--9kr7l.com 119.29.29.29
+xn--flw351e.com 119.29.29.29
 a1.mzstatic.com 119.29.29.29
 a2.mzstatic.com 119.29.29.29
 a3.mzstatic.com 119.29.29.29
