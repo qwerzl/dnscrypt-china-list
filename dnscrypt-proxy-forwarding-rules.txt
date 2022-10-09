@@ -4366,7 +4366,6 @@
 52dgs.net 119.29.29.29
 52digua.com 119.29.29.29
 52dmtp.com 119.29.29.29
-52dns.com 119.29.29.29
 52doc.com 119.29.29.29
 52dr.net 119.29.29.29
 52dsy.com 119.29.29.29
@@ -14675,7 +14674,6 @@ chtwm.com 119.29.29.29
 chuaiguo.com 119.29.29.29
 chuairan.com 119.29.29.29
 chuaizhe.com 119.29.29.29
-chuanbofanyi.com 119.29.29.29
 chuanbojia.com 119.29.29.29
 chuanboyi.com 119.29.29.29
 chuandaizc.com 119.29.29.29
@@ -36231,7 +36229,6 @@ liweijia.com 119.29.29.29
 liweiliang.com 119.29.29.29
 liwenzhou.com 119.29.29.29
 liwinon.com 119.29.29.29
-liwngad.com 119.29.29.29
 liwuhy.com 119.29.29.29
 liwumaoapp.com 119.29.29.29
 liwushuo.com 119.29.29.29
@@ -37812,6 +37809,7 @@ maxuscloud.com 119.29.29.29
 maxvinch.com 119.29.29.29
 maxwealthfund.com 119.29.29.29
 maxwi.com 119.29.29.29
+maxws.com 119.29.29.29
 maxxipoint.com 119.29.29.29
 may.ltd 119.29.29.29
 maya09.com 119.29.29.29
@@ -48677,7 +48675,6 @@ so.com 119.29.29.29
 so147.com 119.29.29.29
 so8848.com 119.29.29.29
 soarwatch.com 119.29.29.29
-soba8.com 119.29.29.29
 sobaidupan.com 119.29.29.29
 sobeian.com 119.29.29.29
 sobereva.com 119.29.29.29
@@ -52235,7 +52232,6 @@ tsingpost.com 119.29.29.29
 tsingtoo.com 119.29.29.29
 tskscn.com 119.29.29.29
 tskscn.org 119.29.29.29
-tslapinshang.com 119.29.29.29
 tsljzs.com 119.29.29.29
 tslongtai.com 119.29.29.29
 tslsmart.com 119.29.29.29
@@ -59057,6 +59053,7 @@ xtuo.net 119.29.29.29
 xtutoring.com 119.29.29.29
 xtxcm.com 119.29.29.29
 xtyxdq.com 119.29.29.29
+xtzjcz.com 119.29.29.29
 xu1s.com 119.29.29.29
 xu7b.com 119.29.29.29
 xuanad.com 119.29.29.29
@@ -59109,7 +59106,6 @@ xudongfood.com 119.29.29.29
 xudoodoo.com 119.29.29.29
 xuduan.vip 119.29.29.29
 xue163.net 119.29.29.29
-xue3dmax.com 119.29.29.29
 xue63.com 119.29.29.29
 xueanquan.com 119.29.29.29
 xueba100.com 119.29.29.29
