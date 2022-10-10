@@ -5993,6 +5993,7 @@
 81toutiao.com 119.29.29.29
 81tt.net 119.29.29.29
 81xy.com 119.29.29.29
+81xz.com 119.29.29.29
 81yy.cc 119.29.29.29
 81zw.com 119.29.29.29
 81zw.us 119.29.29.29
@@ -11182,7 +11183,6 @@ bjqyjjlb.com 119.29.29.29
 bjrc.com 119.29.29.29
 bjrcb.com 119.29.29.29
 bjrdhx.com 119.29.29.29
-bjrel.com 119.29.29.29
 bjretech.com 119.29.29.29
 bjreview.com 119.29.29.29
 bjrhxp.com 119.29.29.29
@@ -13479,7 +13479,6 @@ channelbeyond.com 119.29.29.29
 channeleffect.com 119.29.29.29
 channingsun.bid 119.29.29.29
 chanpay.com 119.29.29.29
-chanpin.biz 119.29.29.29
 chanpin100.com 119.29.29.29
 chanpinban.com 119.29.29.29
 chanpindashi.com 119.29.29.29
@@ -19605,6 +19604,7 @@ dxecs.com 119.29.29.29
 dxf5.com 119.29.29.29
 dxf6.com 119.29.29.29
 dxias.com 119.29.29.29
+dxiazaicc.com 119.29.29.29
 dxjs.com 119.29.29.29
 dxlfile.com 119.29.29.29
 dxlmdd.com 119.29.29.29
@@ -31303,6 +31303,7 @@ jianjian.tv 119.29.29.29
 jianjiaobuluo.com 119.29.29.29
 jianjie8.com 119.29.29.29
 jiankang.com 119.29.29.29
+jiankang.org 119.29.29.29
 jiankanghebei.com 119.29.29.29
 jiankangju.com 119.29.29.29
 jianke.cc 119.29.29.29
@@ -31571,6 +31572,7 @@ jileniao.net 119.29.29.29
 jiliguala.com 119.29.29.29
 jiliguara.xyz 119.29.29.29
 jilingwy.org 119.29.29.29
+jilinoffcn.com 119.29.29.29
 jilinpujiyiyuan.com 119.29.29.29
 jilinwula.com 119.29.29.29
 jiliyun.com 119.29.29.29
@@ -32716,6 +32718,7 @@ jucelin.com 119.29.29.29
 jucheng01.net 119.29.29.29
 juchuangbio.com 119.29.29.29
 judouapp.com 119.29.29.29
+juduo.cc 119.29.29.29
 juduoping.com 119.29.29.29
 jue.so 119.29.29.29
 jue1.com 119.29.29.29
@@ -42226,6 +42229,7 @@ pdidc.com 119.29.29.29
 pdim.gs 119.29.29.29
 pdm.so 119.29.29.29
 pdosgk.com 119.29.29.29
+pdowncc.com 119.29.29.29
 pdrcfw.com 119.29.29.29
 pdreading.com 119.29.29.29
 pdryx.com 119.29.29.29
@@ -47173,6 +47177,7 @@ shenghuowo.com 119.29.29.29
 shenghuozhe.net 119.29.29.29
 shengjing360.com 119.29.29.29
 shengjoy.com 119.29.29.29
+shengjunshi.com 119.29.29.29
 shengli.com 119.29.29.29
 shengming.net 119.29.29.29
 shengniuuz.com 119.29.29.29
@@ -55829,7 +55834,6 @@ win7999.com 119.29.29.29
 win7china.com 119.29.29.29
 win7en.com 119.29.29.29
 win7qijian.com 119.29.29.29
-win7qjb.com 119.29.29.29
 win7sky.com 119.29.29.29
 win7w.com 119.29.29.29
 win7xzb.com 119.29.29.29
@@ -59330,6 +59334,7 @@ xweb.vip 119.29.29.29
 xwei.tv 119.29.29.29
 xwhb.com 119.29.29.29
 xwhodesign.com 119.29.29.29
+xwie.com 119.29.29.29
 xwjqr.com 119.29.29.29
 xwjr.com 119.29.29.29
 xwjy.org 119.29.29.29
@@ -64016,6 +64021,7 @@ zidootv.com 119.29.29.29
 ziewje.com 119.29.29.29
 zifandiaosu.com 119.29.29.29
 zifeiwuya.com 119.29.29.29
+zifumao.com 119.29.29.29
 zige365.com 119.29.29.29
 zigecha.com 119.29.29.29
 zigeer.com 119.29.29.29
@@ -64375,6 +64381,7 @@ zkx.cc 119.29.29.29
 zkxblog.com 119.29.29.29
 zkxlkj.net 119.29.29.29
 zkxww.com 119.29.29.29
+zkyai.com 119.29.29.29
 zkydib.com 119.29.29.29
 zkyouxi.com 119.29.29.29
 zkyxls.com 119.29.29.29
