@@ -13431,6 +13431,7 @@ changeol.com 119.29.29.29
 changfon.com 119.29.29.29
 changfubai.com 119.29.29.29
 changhe.tech 119.29.29.29
+changhong-network.com 119.29.29.29
 changhong.com 119.29.29.29
 changhongdianzi.com 119.29.29.29
 changhongit.com 119.29.29.29
@@ -20488,6 +20489,7 @@ elong.com 119.29.29.29
 elong.net 119.29.29.29
 elongshine.com 119.29.29.29
 elongstatic.com 119.29.29.29
+elontest.com 119.29.29.29
 elpcon.com 119.29.29.29
 elpwc.com 119.29.29.29
 els001.com 119.29.29.29
@@ -29669,6 +29671,7 @@ imgchr.com 119.29.29.29
 imgeek.org 119.29.29.29
 imgets.com 119.29.29.29
 imgii.com 119.29.29.29
+imgkr.com 119.29.29.29
 imglefeng.com 119.29.29.29
 imglink.win 119.29.29.29
 imgo.tv 119.29.29.29
@@ -44320,7 +44323,6 @@ qqba.com 119.29.29.29
 qqbiaoqing.com 119.29.29.29
 qqbiaoqing8.com 119.29.29.29
 qqbibile.com 119.29.29.29
-qqcedsrc.com 119.29.29.29
 qqcf.com 119.29.29.29
 qqcg.com 119.29.29.29
 qqcjw.com 119.29.29.29
@@ -53214,6 +53216,7 @@ uniworldart.com 119.29.29.29
 unixfbi.com 119.29.29.29
 unixhot.com 119.29.29.29
 unixidc.com 119.29.29.29
+unixs.org 119.29.29.29
 unizai.com 119.29.29.29
 unjmz.com 119.29.29.29
 unjs.com 119.29.29.29
