@@ -26863,7 +26863,6 @@ hlybar.com 119.29.29.29
 hlytec.com 119.29.29.29
 hlyy.in 119.29.29.29
 hlzq.com 119.29.29.29
-hlzsgw.com 119.29.29.29
 hm-3223.net 119.29.29.29
 hm120.com 119.29.29.29
 hm16888.net 119.29.29.29
@@ -33409,7 +33408,6 @@ kao8.cc 119.29.29.29
 kaobeitu.com 119.29.29.29
 kaocat.com 119.29.29.29
 kaochong.com 119.29.29.29
-kaoder.com 119.29.29.29
 kaogua.com 119.29.29.29
 kaojionline.com 119.29.29.29
 kaola.com.hk 119.29.29.29
@@ -47679,7 +47677,6 @@ shuanghui.net 119.29.29.29
 shuangkuai.co 119.29.29.29
 shuangmei2008.com 119.29.29.29
 shuangtao.com 119.29.29.29
-shuangtv.net 119.29.29.29
 shuangxian.com 119.29.29.29
 shuangxinhui.com 119.29.29.29
 shuangyingsx.com 119.29.29.29
@@ -51721,7 +51718,6 @@ toidea.com 119.29.29.29
 tok9.com 119.29.29.29
 token-ad.com 119.29.29.29
 tokenglish.com 119.29.29.29
-tokenpocket.pro 119.29.29.29
 tokensky.net 119.29.29.29
 tokenworld.pro 119.29.29.29
 tokimekiclub.org 119.29.29.29
@@ -57443,7 +57439,6 @@ xhungame.com 119.29.29.29
 xhup.club 119.29.29.29
 xhwhouse.com 119.29.29.29
 xhxsw.com 119.29.29.29
-xhxswz.com 119.29.29.29
 xhxw.com 119.29.29.29
 xhy.com 119.29.29.29
 xhy998.com 119.29.29.29
@@ -63113,7 +63108,6 @@ zhaoapple.com 119.29.29.29
 zhaobeidaxiao.com 119.29.29.29
 zhaobeijing.com 119.29.29.29
 zhaobuxiu.com 119.29.29.29
-zhaocaihr.com 119.29.29.29
 zhaocait.com 119.29.29.29
 zhaocaiyan.com 119.29.29.29
 zhaochafa.com 119.29.29.29
