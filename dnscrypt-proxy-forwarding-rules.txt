@@ -2617,7 +2617,6 @@
 324.com 119.29.29.29
 3259.com 119.29.29.29
 32800.com 119.29.29.29
-328888.xyz 119.29.29.29
 328f.com 119.29.29.29
 328vip.com 119.29.29.29
 32ka.com 119.29.29.29
@@ -4442,7 +4441,6 @@
 52qudao.com 119.29.29.29
 52queji.com 119.29.29.29
 52qumao.com 119.29.29.29
-52ra3.com 119.29.29.29
 52rd.com 119.29.29.29
 52rd.net 119.29.29.29
 52rental.com 119.29.29.29
@@ -28587,6 +28585,7 @@ hzzqs.com 119.29.29.29
 hzzrmc.com 119.29.29.29
 hzzsbbs.com 119.29.29.29
 hzzsfs.com 119.29.29.29
+hzzuyin.com 119.29.29.29
 i-27.name 119.29.29.29
 i-520.net 119.29.29.29
 i-ab.com 119.29.29.29
@@ -33728,7 +33727,6 @@ kimsom.com 119.29.29.29
 kina.cc 119.29.29.29
 kindeditor.net 119.29.29.29
 kindle-china.org 119.29.29.29
-kindle114.com 119.29.29.29
 kindlehub.mobi 119.29.29.29
 kindlelib.com 119.29.29.29
 kindleport.com 119.29.29.29
@@ -46632,7 +46630,6 @@ sercomm.com 119.29.29.29
 serholiu.com 119.29.29.29
 servasoft.com 119.29.29.29
 serverless.ink 119.29.29.29
-serversad.com 119.29.29.29
 servicemesher.com 119.29.29.29
 servicewechat.com 119.29.29.29
 servingcdn.com 119.29.29.29
@@ -52387,7 +52384,6 @@ tujiacdn.com 119.29.29.29
 tujian.com 119.29.29.29
 tujidu.com 119.29.29.29
 tujie8.com 119.29.29.29
-tujiedianying.com 119.29.29.29
 tujiwar.com 119.29.29.29
 tujixiazai.com 119.29.29.29
 tuke8.com 119.29.29.29
@@ -61477,7 +61473,6 @@ ysoow.com 119.29.29.29
 ysplay.com 119.29.29.29
 ysrh.com 119.29.29.29
 yssm.org 119.29.29.29
-yssm.tv 119.29.29.29
 yssp88.com 119.29.29.29
 ysstech.com 119.29.29.29
 ysszzs.com 119.29.29.29
