@@ -983,6 +983,7 @@
 11job.net 119.29.29.29
 11k.cc 119.29.29.29
 11lx.com 119.29.29.29
+11meigui.com 119.29.29.29
 11pdf.com 119.29.29.29
 11player.com 119.29.29.29
 11qp94.com 119.29.29.29
@@ -2251,7 +2252,6 @@
 250sy.cc 119.29.29.29
 251633.com 119.29.29.29
 2529.com 119.29.29.29
-2529212.com 119.29.29.29
 253.com 119.29.29.29
 253952.com 119.29.29.29
 253u.com 119.29.29.29
@@ -3450,7 +3450,6 @@
 453600.net 119.29.29.29
 45575.com 119.29.29.29
 456.net 119.29.29.29
-4567.tv 119.29.29.29
 4567w.com 119.29.29.29
 456ss.com 119.29.29.29
 457.com 119.29.29.29
@@ -17399,7 +17398,6 @@ danpin.com 119.29.29.29
 danqi.com 119.29.29.29
 danqingshaonian.com 119.29.29.29
 danrenzheng.com 119.29.29.29
-danseshu.com 119.29.29.29
 danteng.me 119.29.29.29
 dantuvc.com 119.29.29.29
 danxia.com 119.29.29.29
@@ -18329,7 +18327,6 @@ difangfengsu.com 119.29.29.29
 dig-gy.com 119.29.29.29
 digcredit.com 119.29.29.29
 digforfire.net 119.29.29.29
-digforfire.org 119.29.29.29
 digg58.com 119.29.29.29
 digi-uniclick.net 119.29.29.29
 digi-wo.com 119.29.29.29
@@ -32113,6 +32110,7 @@ jmkx.com 119.29.29.29
 jmlk.co 119.29.29.29
 jmmuseum.com 119.29.29.29
 jmonline.org 119.29.29.29
+jmpcrash.com 119.29.29.29
 jmqy.com 119.29.29.29
 jmrsksj.org 119.29.29.29
 jmsqw.com 119.29.29.29
@@ -35333,7 +35331,6 @@ lettercloud.net 119.29.29.29
 letuinet.com 119.29.29.29
 letuknowit.com 119.29.29.29
 letushu.com 119.29.29.29
-letv-cdn.com 119.29.29.29
 letv.com 119.29.29.29
 letv8.com 119.29.29.29
 letv8.net 119.29.29.29
@@ -43968,7 +43965,6 @@ qishu.co 119.29.29.29
 qishu.tw 119.29.29.29
 qishunbao.com 119.29.29.29
 qisool.com 119.29.29.29
-qisuu.la 119.29.29.29
 qita.love 119.29.29.29
 qitete.com 119.29.29.29
 qiti88.com 119.29.29.29
@@ -52183,6 +52179,7 @@ ttsq.xyz 119.29.29.29
 ttsq6.net 119.29.29.29
 ttstream.com 119.29.29.29
 ttsz8.com 119.29.29.29
+ttt.sh 119.29.29.29
 tttarot.com 119.29.29.29
 ttthing.com 119.29.29.29
 tttuangou.net 119.29.29.29
@@ -57542,7 +57539,6 @@ xiaoe-tools.com 119.29.29.29
 xiaoeknow.com 119.29.29.29
 xiaoenai.com 119.29.29.29
 xiaoeryi.com 119.29.29.29
-xiaofangdeng.com 119.29.29.29
 xiaofantian.com 119.29.29.29
 xiaofeng.org 119.29.29.29
 xiaogan.com 119.29.29.29
@@ -57858,7 +57854,6 @@ xidong.net 119.29.29.29
 xidongv.com 119.29.29.29
 xiduobaby.com 119.29.29.29
 xie-jue-tui-xiao.com 119.29.29.29
-xieat.com 119.29.29.29
 xiebao18.com 119.29.29.29
 xieboke.net 119.29.29.29
 xiechao.org 119.29.29.29
@@ -61989,7 +61984,6 @@ yunzujia.com 119.29.29.29
 yunzz.net 119.29.29.29
 yupiao.info 119.29.29.29
 yupoo.com 119.29.29.29
-yupsky.com 119.29.29.29
 yupu.com 119.29.29.29
 yuqianshu.com 119.29.29.29
 yuqiaolong.com 119.29.29.29
@@ -63146,7 +63140,6 @@ zhenwu.com 119.29.29.29
 zhenxiad.com 119.29.29.29
 zhenxian.fm 119.29.29.29
 zhenxingkuangchanpin.com 119.29.29.29
-zhenyouhuo.com 119.29.29.29
 zhenyouliao.com 119.29.29.29
 zhenyouweb.com 119.29.29.29
 zhenzanzixun.com 119.29.29.29
@@ -64545,6 +64538,7 @@ zsptdjy.com 119.29.29.29
 zsr.cc 119.29.29.29
 zsso03.com 119.29.29.29
 zssph.com 119.29.29.29
+zssq8.com 119.29.29.29
 zssxczxyey.com 119.29.29.29
 zstack.io 119.29.29.29
 zstzs.com 119.29.29.29
