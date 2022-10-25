@@ -17640,7 +17640,6 @@ dbbqb.com 119.29.29.29
 dbccv.com 119.29.29.29
 dbcdh.com 119.29.29.29
 dbcsq.com 119.29.29.29
-dbcxz1.com 119.29.29.29
 dbcxz1.net 119.29.29.29
 dbdna.com 119.29.29.29
 dbfansub.com 119.29.29.29
@@ -39171,7 +39170,6 @@ moxdao.com 119.29.29.29
 moxfive.xyz 119.29.29.29
 moxiai.com 119.29.29.29
 moxian.com 119.29.29.29
-moxiaofei.com 119.29.29.29
 moxiaoqihuoguo.com 119.29.29.29
 moxing.net 119.29.29.29
 moxingyun.com 119.29.29.29
@@ -39697,7 +39695,6 @@ myriptide.com 119.29.29.29
 myrtb.net 119.29.29.29
 myrunners.com 119.29.29.29
 myruru.com 119.29.29.29
-mysanco.com 119.29.29.29
 myscore.org 119.29.29.29
 mysemlife.com 119.29.29.29
 myshow800.com 119.29.29.29
@@ -40053,6 +40050,7 @@ nddnrm.com 119.29.29.29
 ndfsl.com 119.29.29.29
 ndhys.com 119.29.29.29
 ndmh.com 119.29.29.29
+ndnslab.com 119.29.29.29
 ndoo.net 119.29.29.29
 ndscsoft.com 119.29.29.29
 ndser.net 119.29.29.29
@@ -46656,7 +46654,6 @@ sgnet.cc 119.29.29.29
 sgnongkang.com 119.29.29.29
 sgou.com 119.29.29.29
 sgshero.com 119.29.29.29
-sgss8.com 119.29.29.29
 sgsugou.com 119.29.29.29
 sgsxw.com 119.29.29.29
 sguo.com 119.29.29.29
@@ -57215,7 +57212,6 @@ xfsub.com 119.29.29.29
 xft123.com 119.29.29.29
 xftclub.com 119.29.29.29
 xfun233.com 119.29.29.29
-xfwi.com 119.29.29.29
 xfxb.net 119.29.29.29
 xfyousheng.com 119.29.29.29
 xfyun.com 119.29.29.29
@@ -59007,7 +59003,6 @@ xuexiaodaquan.net 119.29.29.29
 xuexiaozhaopin.com 119.29.29.29
 xuexibao.com 119.29.29.29
 xuexigang.com 119.29.29.29
-xuexijilu.com 119.29.29.29
 xuexila.com 119.29.29.29
 xuexili.com 119.29.29.29
 xuexilinux.com 119.29.29.29
