@@ -24996,6 +24996,7 @@ h5data.com 119.29.29.29
 h5ds.com 119.29.29.29
 h5eco.com 119.29.29.29
 h5gamecdn.club 119.29.29.29
+h5gd.com 119.29.29.29
 h5gdvip.com 119.29.29.29
 h5in.net 119.29.29.29
 h5jun.com 119.29.29.29
@@ -56945,7 +56946,6 @@ xapcn.com 119.29.29.29
 xaqdrs.com 119.29.29.29
 xaqsl.com 119.29.29.29
 xaredian.com 119.29.29.29
-xargin.com 119.29.29.29
 xarxrljt.com 119.29.29.29
 xaseastar.com 119.29.29.29
 xasff.com 119.29.29.29
