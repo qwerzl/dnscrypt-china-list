@@ -872,6 +872,7 @@
 11111s.info 119.29.29.29
 111155268.com 119.29.29.29
 1113.cc 119.29.29.29
+1113dns.com 119.29.29.29
 11160066.com 119.29.29.29
 111com.net 119.29.29.29
 111g.com 119.29.29.29
@@ -1749,6 +1750,7 @@
 19kan.com 119.29.29.29
 19lou.com 119.29.29.29
 19mi.net 119.29.29.29
+19pay.net 119.29.29.29
 19ued.com 119.29.29.29
 19where.com 119.29.29.29
 19xsf.com 119.29.29.29
@@ -17462,6 +17464,7 @@ dashen520.com 119.29.29.29
 dashengji.com 119.29.29.29
 dashenglaile.com 119.29.29.29
 dashengpan.com 119.29.29.29
+dashengzuji.com 119.29.29.29
 dashenquan.com 119.29.29.29
 dashentv.com 119.29.29.29
 dashet.com 119.29.29.29
@@ -40480,6 +40483,7 @@ nizkeyboard.com 119.29.29.29
 nizuixing.com 119.29.29.29
 nj-bl.com 119.29.29.29
 nj-marathon.org 119.29.29.29
+nj-qiyiguo.net 119.29.29.29
 njbaisou.com 119.29.29.29
 njc100.com 119.29.29.29
 njcdata.com 119.29.29.29
