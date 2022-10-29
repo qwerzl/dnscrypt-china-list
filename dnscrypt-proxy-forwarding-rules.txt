@@ -2877,7 +2877,6 @@
 360wzb.com 119.29.29.29
 360wzws.com 119.29.29.29
 360xh.com 119.29.29.29
-360xiaos.com 119.29.29.29
 360xiehui.com 119.29.29.29
 360xkw.com 119.29.29.29
 360xlab.org 119.29.29.29
@@ -23339,7 +23338,6 @@ gemuedu.com 119.29.29.29
 genbaike.com 119.29.29.29
 genban.org 119.29.29.29
 gendantong.com 119.29.29.29
-genekong.com 119.29.29.29
 geneskies.com 119.29.29.29
 genetalks.com 119.29.29.29
 geneworldcn.com 119.29.29.29
@@ -34090,7 +34088,6 @@ kshot.com 119.29.29.29
 ksjgs.com 119.29.29.29
 ksks001.com 119.29.29.29
 kskwai.com 119.29.29.29
-ksldg.com 119.29.29.29
 ksmobile.com 119.29.29.29
 ksmom.com 119.29.29.29
 ksnows.com 119.29.29.29
@@ -51406,7 +51403,6 @@ tjorthop.org 119.29.29.29
 tjpa-china.org 119.29.29.29
 tjpma.org 119.29.29.29
 tjptfhq.com 119.29.29.29
-tjqktgg.com 119.29.29.29
 tjrge.com 119.29.29.29
 tjsjnxh.com 119.29.29.29
 tjst.net 119.29.29.29
@@ -52804,7 +52800,6 @@ uddtrip.com 119.29.29.29
 udecig.com 119.29.29.29
 udeepin.com 119.29.29.29
 udeskcs.com 119.29.29.29
-udfex.com 119.29.29.29
 udonmai.com 119.29.29.29
 udpis.com 119.29.29.29
 udrig.com 119.29.29.29
@@ -58778,7 +58773,6 @@ xshrcw.com 119.29.29.29
 xshulin.com 119.29.29.29
 xshuma.com 119.29.29.29
 xshuoba.com 119.29.29.29
-xshwp.com 119.29.29.29
 xsina.net 119.29.29.29
 xsjedu.org 119.29.29.29
 xsjmc.net 119.29.29.29
