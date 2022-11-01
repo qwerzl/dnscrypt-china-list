@@ -11442,6 +11442,7 @@ boanying.com 119.29.29.29
 bob-cardif.com 119.29.29.29
 bob-leasing.com 119.29.29.29
 bob2012.com 119.29.29.29
+bob4885.com 119.29.29.29
 bobaow.com 119.29.29.29
 bobbns.com 119.29.29.29
 bobcfc.com 119.29.29.29
@@ -12961,6 +12962,7 @@ cdncl.net 119.29.29.29
 cdncloud.org 119.29.29.29
 cdnclouds.net 119.29.29.29
 cdnczydwl.com 119.29.29.29
+cdndd.net 119.29.29.29
 cdndm.com 119.29.29.29
 cdndm5.com 119.29.29.29
 cdndm5.net 119.29.29.29
@@ -34145,7 +34147,6 @@ ksc-test.com 119.29.29.29
 kscac.com 119.29.29.29
 kscdns.com 119.29.29.29
 ksdkcks.com 119.29.29.29
-ksdlp.com 119.29.29.29
 ksdown.com 119.29.29.29
 ksdq0514.com 119.29.29.29
 ksense.com 119.29.29.29
@@ -36058,11 +36059,11 @@ liugejava.com 119.29.29.29
 liugezhou.online 119.29.29.29
 liugj.com 119.29.29.29
 liugm.com 119.29.29.29
+liugong.com 119.29.29.29
 liuguofeng.com 119.29.29.29
 liuhaolin.com 119.29.29.29
 liujiajia.me 119.29.29.29
 liujiangblog.com 119.29.29.29
-liujiasj.com 119.29.29.29
 liujijun.com 119.29.29.29
 liujto.com 119.29.29.29
 liujunworld.com 119.29.29.29
@@ -47600,7 +47601,6 @@ shu-ju.net 119.29.29.29
 shu163.com 119.29.29.29
 shuabuapp.com 119.29.29.29
 shuadanfu.com 119.29.29.29
-shuai.win 119.29.29.29
 shuaibo.wang 119.29.29.29
 shuaigeshe.com 119.29.29.29
 shuaihuajun.com 119.29.29.29
@@ -52216,7 +52216,6 @@ ttsfgyrj.com 119.29.29.29
 ttshengbei.com 119.29.29.29
 ttsmmwb.com 119.29.29.29
 ttsq.xyz 119.29.29.29
-ttsq6.net 119.29.29.29
 ttstream.com 119.29.29.29
 ttsz8.com 119.29.29.29
 ttt.sh 119.29.29.29
@@ -58966,6 +58965,7 @@ xuanjutong.com 119.29.29.29
 xuanke.com 119.29.29.29
 xuanlishi.com 119.29.29.29
 xuannaer.com 119.29.29.29
+xuanqii.com 119.29.29.29
 xuanquge.com 119.29.29.29
 xuanqun.com 119.29.29.29
 xuanruanjian.com 119.29.29.29
