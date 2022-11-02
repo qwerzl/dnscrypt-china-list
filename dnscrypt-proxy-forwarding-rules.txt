@@ -4970,6 +4970,7 @@
 5kcrm.net 119.29.29.29
 5kda.com 119.29.29.29
 5khouse.com 119.29.29.29
+5l4trd8ilk.com 119.29.29.29
 5lanren.com 119.29.29.29
 5lbw.com 119.29.29.29
 5lejob.com 119.29.29.29
@@ -5698,7 +5699,6 @@
 78gk.com 119.29.29.29
 78hr.com 119.29.29.29
 78oa.com 119.29.29.29
-78pan.com 119.29.29.29
 78tp.com 119.29.29.29
 79.com 119.29.29.29
 79151879798.com 119.29.29.29
@@ -13455,7 +13455,6 @@ chaoart.com 119.29.29.29
 chaochaojin.com 119.29.29.29
 chaofan.com 119.29.29.29
 chaofan.wang 119.29.29.29
-chaofan365.com 119.29.29.29
 chaofanaishangyu.com 119.29.29.29
 chaofanshuma.com 119.29.29.29
 chaofenxiang.vip 119.29.29.29
@@ -22611,6 +22610,7 @@ fusion.design 119.29.29.29
 fusroda.io 119.29.29.29
 fute.com 119.29.29.29
 futu5.com 119.29.29.29
+futufin.com 119.29.29.29
 futuhk.com 119.29.29.29
 futuku.com 119.29.29.29
 futuniuniu.com 119.29.29.29
@@ -27202,6 +27202,7 @@ hostdie.com 119.29.29.29
 hostker.com 119.29.29.29
 hostker.net 119.29.29.29
 hostkvm.com 119.29.29.29
+hostmonit.com 119.29.29.29
 hostxen.com 119.29.29.29
 hostyun.com 119.29.29.29
 hotalk.com 119.29.29.29
@@ -39416,7 +39417,6 @@ mucf.cc 119.29.29.29
 mucfc.com 119.29.29.29
 muchangqing.com 119.29.29.29
 muchcloud.com 119.29.29.29
-muchlab.com 119.29.29.29
 muchong.com 119.29.29.29
 muchrank.com 119.29.29.29
 mudgj.com 119.29.29.29
@@ -49680,7 +49680,6 @@ suyanw.com 119.29.29.29
 suyuening.com 119.29.29.29
 suyugame.com 119.29.29.29
 suyujoy.com 119.29.29.29
-suyunbo.tv 119.29.29.29
 suyutech.com 119.29.29.29
 suzhenyi.com 119.29.29.29
 suzhou.cc 119.29.29.29
@@ -51097,7 +51096,6 @@ ths123.com 119.29.29.29
 ths8.com 119.29.29.29
 thseoer.com 119.29.29.29
 thstars.com 119.29.29.29
-thstp.com 119.29.29.29
 thtfpc.com 119.29.29.29
 thumedialab.com 119.29.29.29
 thundercdn.net 119.29.29.29
@@ -57518,7 +57516,6 @@ xiao-bo.com 119.29.29.29
 xiao-new.com 119.29.29.29
 xiao-sports.com 119.29.29.29
 xiao.lu 119.29.29.29
-xiao6.tv 119.29.29.29
 xiao84.com 119.29.29.29
 xiao89.com 119.29.29.29
 xiaoa.name 119.29.29.29
@@ -62654,6 +62651,7 @@ zealsafe.net 119.29.29.29
 zebred.com 119.29.29.29
 zechoriah.com 119.29.29.29
 zechunbengye.com 119.29.29.29
+zeda1.com 119.29.29.29
 zedukm.com 119.29.29.29
 zeelis.com 119.29.29.29
 zeesin.com 119.29.29.29
