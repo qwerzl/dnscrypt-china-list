@@ -78,7 +78,6 @@
 010dsmzyy.com 119.29.29.29
 010jianzhan.com 119.29.29.29
 010lf.com 119.29.29.29
-0110m.com 119.29.29.29
 0119.com 119.29.29.29
 0123401234.com 119.29.29.29
 0123456789.com 119.29.29.29
@@ -1019,6 +1018,7 @@
 12225.com 119.29.29.29
 12226.com 119.29.29.29
 12227.com 119.29.29.29
+122cha.com 119.29.29.29
 122park.com 119.29.29.29
 123-789.com 119.29.29.29
 123-biyezheng.org 119.29.29.29
@@ -2581,7 +2581,6 @@
 31taoci.com 119.29.29.29
 31wj.com 119.29.29.29
 31xj.com 119.29.29.29
-31xjd.com 119.29.29.29
 31xs.com 119.29.29.29
 31xs.net 119.29.29.29
 31yarn.com 119.29.29.29
@@ -8346,6 +8345,7 @@ allpayx.com 119.29.29.29
 allposs.com 119.29.29.29
 allpyra.com 119.29.29.29
 allrace.com 119.29.29.29
+allsaintsmusic.com 119.29.29.29
 allsenseww.com 119.29.29.29
 allstack.net 119.29.29.29
 allstor.org 119.29.29.29
@@ -36766,6 +36766,7 @@ lttvip.com 119.29.29.29
 ltwkw.com 119.29.29.29
 ltxjob.com 119.29.29.29
 lty.fun 119.29.29.29
+ltyears.com 119.29.29.29
 ltzsjt.com 119.29.29.29
 lu.com 119.29.29.29
 lu35.com 119.29.29.29
@@ -55657,7 +55658,6 @@ wifibanlv.com 119.29.29.29
 wifichain.com 119.29.29.29
 wifidog.pro 119.29.29.29
 wifidown.com 119.29.29.29
-wifigushi.com 119.29.29.29
 wifigx.com 119.29.29.29
 wifilu.com 119.29.29.29
 wifimsl.com 119.29.29.29
@@ -60067,6 +60067,7 @@ yhdtns.com 119.29.29.29
 yhees.com 119.29.29.29
 yhetent.com 119.29.29.29
 yhfx.info 119.29.29.29
+yhgfb-cn-static.com 119.29.29.29
 yhgo.wang 119.29.29.29
 yhgo8.com 119.29.29.29
 yhhh8888.com 119.29.29.29
@@ -60903,7 +60904,6 @@ yodu.org 119.29.29.29
 yoe365.com 119.29.29.29
 yofc.com 119.29.29.29
 yofcjs.com 119.29.29.29
-yofebearing.com 119.29.29.29
 yofijoy.com 119.29.29.29
 yofish.com 119.29.29.29
 yofond.com 119.29.29.29
