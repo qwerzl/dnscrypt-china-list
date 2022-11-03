@@ -7513,6 +7513,7 @@ adyun.com 119.29.29.29
 adzar-energy.com 119.29.29.29
 adzh.com 119.29.29.29
 adzhongdian.com 119.29.29.29
+adznb.com 119.29.29.29
 adzop.com 119.29.29.29
 adzshd.com 119.29.29.29
 ae-people.com 119.29.29.29
@@ -13420,6 +13421,7 @@ changsha-show.com 119.29.29.29
 changshabdc.com 119.29.29.29
 changshang.com 119.29.29.29
 changshiban.com 119.29.29.29
+changtong2800.com 119.29.29.29
 changtounet.com 119.29.29.29
 changtu.com 119.29.29.29
 changxie.com 119.29.29.29
@@ -13504,7 +13506,6 @@ chapangzhan.com 119.29.29.29
 chapaofan.com 119.29.29.29
 chaping.tv 119.29.29.29
 chappell1811.com 119.29.29.29
-chapuw.com 119.29.29.29
 chargerlab.com 119.29.29.29
 chargerlink.com 119.29.29.29
 charlottebeverly.com 119.29.29.29
@@ -26217,6 +26218,7 @@ heluowenhua.net 119.29.29.29
 hemamax.com 119.29.29.29
 hemanc.com 119.29.29.29
 hemaos.com 119.29.29.29
+hemaread.com 119.29.29.29
 hemayouxi.com 119.29.29.29
 hemayun.com 119.29.29.29
 hemayx.com 119.29.29.29
@@ -31555,6 +31557,7 @@ jinfengwine.com 119.29.29.29
 jinfuzi.com 119.29.29.29
 jing-xian.com 119.29.29.29
 jingbei.li 119.29.29.29
+jingbo.net 119.29.29.29
 jingbotech.com 119.29.29.29
 jingc.com 119.29.29.29
 jingcai360.net 119.29.29.29
@@ -47317,7 +47320,6 @@ shiqichan.com 119.29.29.29
 shiqichuban.com 119.29.29.29
 shiqidu.com 119.29.29.29
 shiqu.com 119.29.29.29
-shiqumao.com 119.29.29.29
 shiqutech.com 119.29.29.29
 shishagame.com 119.29.29.29
 shishangfengyun.com 119.29.29.29
@@ -61944,7 +61946,6 @@ yuns1.net 119.29.29.29
 yunsd.net 119.29.29.29
 yunser.com 119.29.29.29
 yunshan.net 119.29.29.29
-yunshangc.com 119.29.29.29
 yunshangnc.com 119.29.29.29
 yunshanmeicai.com 119.29.29.29
 yunshiketang.xyz 119.29.29.29
