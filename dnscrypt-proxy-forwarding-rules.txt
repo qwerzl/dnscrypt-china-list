@@ -8613,7 +8613,6 @@ antuan532.com 119.29.29.29
 antuni.com 119.29.29.29
 antutu.com 119.29.29.29
 antutu.net 119.29.29.29
-antuzhi.com 119.29.29.29
 antvr.com 119.29.29.29
 antzk.com 119.29.29.29
 anw.red 119.29.29.29
@@ -8870,7 +8869,6 @@ appgenuine.com 119.29.29.29
 appicplay.com 119.29.29.29
 appinn.com 119.29.29.29
 appjiagu.com 119.29.29.29
-appjzy.com 119.29.29.29
 appkaifa.com 119.29.29.29
 appkefu.com 119.29.29.29
 appkg.com 119.29.29.29
@@ -10174,7 +10172,6 @@ bdall.com 119.29.29.29
 bdapark.com 119.29.29.29
 bdatu.com 119.29.29.29
 bdc-rays.com 119.29.29.29
-bdcdnimg.com 119.29.29.29
 bdchina.com 119.29.29.29
 bdcloudapi.com 119.29.29.29
 bdclouddns.com 119.29.29.29
@@ -18703,6 +18700,7 @@ dnsinside.net 119.29.29.29
 dnsip.net 119.29.29.29
 dnsis.net 119.29.29.29
 dnsjia.com 119.29.29.29
+dnslv.com 119.29.29.29
 dnsmeasurement.com 119.29.29.29
 dnsmsn.com 119.29.29.29
 dnsng.net 119.29.29.29
@@ -25062,6 +25060,7 @@ haianbank.com 119.29.29.29
 haianedu.net 119.29.29.29
 haianw.com 119.29.29.29
 haibao.com 119.29.29.29
+haibao123.xyz 119.29.29.29
 haibaobaoxian.com 119.29.29.29
 haibaoyl.com 119.29.29.29
 haibaoyouxi.com 119.29.29.29
@@ -25908,6 +25907,7 @@ hcicloud.com 119.29.29.29
 hcjsk120.com 119.29.29.29
 hcl100.com 119.29.29.29
 hcmiraefund.com 119.29.29.29
+hcnamecdn.com 119.29.29.29
 hcnamecdns.com 119.29.29.29
 hcocoa.com 119.29.29.29
 hcqixinhb.com 119.29.29.29
@@ -36090,6 +36090,7 @@ liuyangfcw.com 119.29.29.29
 liuyanzhao.com 119.29.29.29
 liuyifei.cc 119.29.29.29
 liuyingqiang.com 119.29.29.29
+liuzaoqi.com 119.29.29.29
 liuzhichao.com 119.29.29.29
 liuzhixiang.com 119.29.29.29
 liuzongyang.com 119.29.29.29
@@ -39102,7 +39103,6 @@ mopair-erm.net 119.29.29.29
 mopcn.com 119.29.29.29
 mopei8.com 119.29.29.29
 moper.me 119.29.29.29
-mopiaoyao.com 119.29.29.29
 mopicer.com 119.29.29.29
 mopoint.com 119.29.29.29
 mopsky.com 119.29.29.29
@@ -52478,6 +52478,7 @@ tvbbj.com 119.29.29.29
 tvblack.com 119.29.29.29
 tvbwind.com 119.29.29.29
 tvcbook.com 119.29.29.29
+tvccc.org 119.29.29.29
 tventry.com 119.29.29.29
 tvfanqie.com 119.29.29.29
 tvflnet.com 119.29.29.29
@@ -56367,6 +56368,7 @@ wsqejt.com 119.29.29.29
 wsry18.xyz 119.29.29.29
 wsssec.com 119.29.29.29
 wstx.com 119.29.29.29
+wsurl.cc 119.29.29.29
 wsview.com 119.29.29.29
 wswebcdn.com 119.29.29.29
 wswebcdn.info 119.29.29.29
@@ -56497,6 +56499,7 @@ wujiexiang.com 119.29.29.29
 wujiexueyuan.com 119.29.29.29
 wujiit.com 119.29.29.29
 wujinimg.com 119.29.29.29
+wujinkk.com 119.29.29.29
 wujinpp.com 119.29.29.29
 wujixiaoshuo.com 119.29.29.29
 wukong.com 119.29.29.29
@@ -63830,6 +63833,7 @@ zhzyw.com 119.29.29.29
 zhzyw.org 119.29.29.29
 zhzzx.com 119.29.29.29
 zi.com 119.29.29.29
+zi5.cc 119.29.29.29
 ziben365.com 119.29.29.29
 ziboga.com 119.29.29.29
 zicaitou.com 119.29.29.29
