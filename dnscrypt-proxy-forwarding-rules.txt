@@ -2553,6 +2553,7 @@
 31games.com 119.29.29.29
 31gcjx.com 119.29.29.29
 31huiyi.com 119.29.29.29
+31idc.com 119.29.29.29
 31jc.com 119.29.29.29
 31jf.com 119.29.29.29
 31jgj.com 119.29.29.29
@@ -6511,6 +6512,7 @@
 91vps.com 119.29.29.29
 91vst.com 119.29.29.29
 91waijiao.com 119.29.29.29
+91waitang.com 119.29.29.29
 91wan.com 119.29.29.29
 91wangcai.com 119.29.29.29
 91wangmeng.com 119.29.29.29
@@ -7480,6 +7482,7 @@ adwintech.com 119.29.29.29
 adwo.com 119.29.29.29
 adx.ms 119.29.29.29
 adx666.com 119.29.29.29
+adxflow.com 119.29.29.29
 adxhi.com 119.29.29.29
 adxiaozi.com 119.29.29.29
 adxiny.com 119.29.29.29
@@ -15114,6 +15117,7 @@ clsn.io 119.29.29.29
 clssn.com 119.29.29.29
 clto.cc 119.29.29.29
 cltt.org 119.29.29.29
+clubcarev.com 119.29.29.29
 clubweixin.samsung.com 119.29.29.29
 clusterdnsserver.com 119.29.29.29
 clx360.com 119.29.29.29
@@ -19577,7 +19581,6 @@ dytg02.xyz 119.29.29.29
 dytg389.xyz 119.29.29.29
 dytg390.xyz 119.29.29.29
 dytg391.xyz 119.29.29.29
-dytol.com 119.29.29.29
 dytt.net 119.29.29.29
 dytt789.com 119.29.29.29
 dytt7899.com 119.29.29.29
@@ -20024,6 +20027,7 @@ ed2kfile.com 119.29.29.29
 ed2kk.com 119.29.29.29
 eda-china.com 119.29.29.29
 eda1024.com 119.29.29.29
+eda2.com 119.29.29.29
 eda365.com 119.29.29.29
 eda365.net 119.29.29.29
 edabbs.com 119.29.29.29
@@ -20069,6 +20073,7 @@ edong.com 119.29.29.29
 edongeejiao.com 119.29.29.29
 edongli.net 119.29.29.29
 edongyun.com 119.29.29.29
+edoou.com 119.29.29.29
 edowning.net 119.29.29.29
 edqgk.com 119.29.29.29
 edragongame.com 119.29.29.29
@@ -22164,6 +22169,7 @@ folou.com 119.29.29.29
 fomen123.com 119.29.29.29
 foneplatform.com 119.29.29.29
 fongmong.com 119.29.29.29
+fongser.net 119.29.29.29
 fonsoft.net 119.29.29.29
 fonsview.com 119.29.29.29
 font.im 119.29.29.29
@@ -26036,6 +26042,7 @@ hedgehogrock.com 119.29.29.29
 heduibu.com 119.29.29.29
 heduwang.com 119.29.29.29
 heeeeeh.com 119.29.29.29
+heehee.club 119.29.29.29
 heemoo.com 119.29.29.29
 heerit.com 119.29.29.29
 hefei.cc 119.29.29.29
@@ -27465,6 +27472,7 @@ htmleaf.com 119.29.29.29
 htmlplusplus.com 119.29.29.29
 htmlsucai.com 119.29.29.29
 htnice.com 119.29.29.29
+hto9f3.xyz 119.29.29.29
 htobl.com 119.29.29.29
 htoo.vip 119.29.29.29
 htpbc.com 119.29.29.29
@@ -28939,6 +28947,7 @@ idcay.com 119.29.29.29
 idcbest.com 119.29.29.29
 idcbest.hk 119.29.29.29
 idccenter.net 119.29.29.29
+idcchacha.com 119.29.29.29
 idccom.net 119.29.29.29
 idccun.com 119.29.29.29
 idceb.com 119.29.29.29
@@ -37186,6 +37195,7 @@ mabiji.com 119.29.29.29
 mabotech.com 119.29.29.29
 mac189.com 119.29.29.29
 mac69.com 119.29.29.29
+mac89.com 119.29.29.29
 macabc.com 119.29.29.29
 macaihong.net 119.29.29.29
 macapp.so 119.29.29.29
@@ -38402,6 +38412,7 @@ miguyu.com 119.29.29.29
 mihan.cc 119.29.29.29
 mihayo.com 119.29.29.29
 mihayou.com 119.29.29.29
+mihayou.fun 119.29.29.29
 mihoyo.com 119.29.29.29
 mihtool.com 119.29.29.29
 mihua.net 119.29.29.29
@@ -41477,6 +41488,7 @@ oscarzhoud.com 119.29.29.29
 oschina.com 119.29.29.29
 oschina.io 119.29.29.29
 oschina.net 119.29.29.29
+oscloudcdns.com 119.29.29.29
 osechina.com 119.29.29.29
 osedu.net 119.29.29.29
 oseminfo.com 119.29.29.29
@@ -41818,6 +41830,7 @@ pangqiu.com 119.29.29.29
 pangshu.com 119.29.29.29
 pangubox.com 119.29.29.29
 pangukj.com 119.29.29.29
+pangupy.com 119.29.29.29
 panguso.com 119.29.29.29
 pangxieke.com 119.29.29.29
 pangzhan.net 119.29.29.29
@@ -43335,6 +43348,7 @@ qdsay.com 119.29.29.29
 qdsbx.com 119.29.29.29
 qdshitangchengbao.com 119.29.29.29
 qdsntsg.com 119.29.29.29
+qdsxtkj.com 119.29.29.29
 qdsysj.com 119.29.29.29
 qdtech.ai 119.29.29.29
 qdtgood.com 119.29.29.29
@@ -45323,6 +45337,7 @@ rmsznet.com 119.29.29.29
 rmttjkw.com 119.29.29.29
 rmtyun.com 119.29.29.29
 rmxiongan.com 119.29.29.29
+rmxsw.cc 119.29.29.29
 rmylsc.com 119.29.29.29
 rmzs.net 119.29.29.29
 rmzt.com 119.29.29.29
@@ -46135,6 +46150,7 @@ scqcp.com 119.29.29.29
 scqiuchang.com 119.29.29.29
 scrcu.com 119.29.29.29
 scrdzf.com 119.29.29.29
+scriptjc.com 119.29.29.29
 scrmtech.com 119.29.29.29
 scrsw.net 119.29.29.29
 scrumcn.com 119.29.29.29
@@ -58619,6 +58635,7 @@ xmzdls.com 119.29.29.29
 xmzsyg.com 119.29.29.29
 xmzylh.com 119.29.29.29
 xn--2krw29cdqai43k.com 119.29.29.29
+xn--2ss830adjbqy7h.xn--fiqs8s 119.29.29.29
 xn--55qx5d 119.29.29.29
 xn--6rt008ee0k3ua.com 119.29.29.29
 xn--6rt008ee0k3ua.net 119.29.29.29
@@ -65006,7 +65023,6 @@ zzsf.com 119.29.29.29
 zzsggzy.com 119.29.29.29
 zzsgjj.com 119.29.29.29
 zzsjxt.com 119.29.29.29
-zzssjx.com 119.29.29.29
 zzsteel.com 119.29.29.29
 zzstep.com 119.29.29.29
 zzt9.com 119.29.29.29
