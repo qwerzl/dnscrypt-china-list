@@ -5851,7 +5851,6 @@
 800lj.com 119.29.29.29
 800mei.net 119.29.29.29
 800pharm.com 119.29.29.29
-800t.net 119.29.29.29
 800tu.com 119.29.29.29
 800ux.com 119.29.29.29
 800vod.com 119.29.29.29
@@ -7355,6 +7354,7 @@ addpv.com 119.29.29.29
 addsxz.com 119.29.29.29
 adeaz.com 119.29.29.29
 adebang.com 119.29.29.29
+adebibi.com 119.29.29.29
 adeline.cc 119.29.29.29
 adesk.com 119.29.29.29
 adexplain.com 119.29.29.29
@@ -40467,7 +40467,6 @@ njxsmaofa.com 119.29.29.29
 njxsmfyh.com 119.29.29.29
 njxsmz.com 119.29.29.29
 njxzwh.com 119.29.29.29
-njyayishipin.net 119.29.29.29
 njycwy.com 119.29.29.29
 njyingtaoya.com 119.29.29.29
 njyongji.com 119.29.29.29
@@ -50006,7 +50005,6 @@ sztaijier.com 119.29.29.29
 sztalent.org 119.29.29.29
 sztara.com 119.29.29.29
 sztkc.com 119.29.29.29
-sztmt.com 119.29.29.29
 sztopbrand.com 119.29.29.29
 sztspi.com 119.29.29.29
 sztxcpa.com 119.29.29.29
@@ -53329,7 +53327,6 @@ v6lvs.com 119.29.29.29
 v6ok.com 119.29.29.29
 v78q.com 119.29.29.29
 v86.org 119.29.29.29
-v8d8.com 119.29.29.29
 v977.com 119.29.29.29
 v9b5n91.com 119.29.29.29
 va-etong.com 119.29.29.29
