@@ -4823,7 +4823,6 @@
 59edu.com 119.29.29.29
 59hs.com 119.29.29.29
 59iedu.com 119.29.29.29
-59na.com 119.29.29.29
 59pk.net 119.29.29.29
 59store.com 119.29.29.29
 59w.net 119.29.29.29
@@ -8890,7 +8889,6 @@ appyao.com 119.29.29.29
 appying.com 119.29.29.29
 appykt.com 119.29.29.29
 appzhonghua.com 119.29.29.29
-apqianzhuo.com 119.29.29.29
 apsgo.com 119.29.29.29
 apt.so 119.29.29.29
 aptchina.com 119.29.29.29
@@ -11082,7 +11080,6 @@ bjmingdi.com 119.29.29.29
 bjmjm.com 119.29.29.29
 bjmslp.com 119.29.29.29
 bjmti.com 119.29.29.29
-bjmyw.com 119.29.29.29
 bjnaxl.com 119.29.29.29
 bjnsr.com 119.29.29.29
 bjp321.com 119.29.29.29
@@ -27330,7 +27327,6 @@ hsigus.com 119.29.29.29
 hsiii.com 119.29.29.29
 hsjk.com 119.29.29.29
 hsjkaoyan.com 119.29.29.29
-hsjss.com 119.29.29.29
 hslj.net 119.29.29.29
 hsmc.com 119.29.29.29
 hsmdb.com 119.29.29.29
@@ -44198,7 +44194,6 @@ qqtf.com 119.29.29.29
 qqtlr.com 119.29.29.29
 qqtn.com 119.29.29.29
 qqtouxiangzq.com 119.29.29.29
-qqttxx.com 119.29.29.29
 qqtu8.com 119.29.29.29
 qqtz.com 119.29.29.29
 qqu.cc 119.29.29.29
@@ -52491,7 +52486,6 @@ ty-tyre.com 119.29.29.29
 ty2y.com 119.29.29.29
 ty3w.net 119.29.29.29
 ty8866.com 119.29.29.29
-tya.company 119.29.29.29
 tyalxx.com 119.29.29.29
 tybai.com 119.29.29.29
 tyc100.com 119.29.29.29
