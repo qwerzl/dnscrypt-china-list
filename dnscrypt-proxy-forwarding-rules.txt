@@ -255,7 +255,6 @@
 02kdid.com 119.29.29.29
 02lu.com 119.29.29.29
 02o.pw 119.29.29.29
-02shu.cc 119.29.29.29
 02shu.com 119.29.29.29
 02wan.com 119.29.29.29
 02wq.com 119.29.29.29
@@ -5045,7 +5044,6 @@
 607777.cc 119.29.29.29
 6080d.com 119.29.29.29
 6080j.com 119.29.29.29
-6080k.com 119.29.29.29
 6090b.com 119.29.29.29
 609999.xyz 119.29.29.29
 60dj.com 119.29.29.29
@@ -5331,6 +5329,7 @@
 69cy.net 119.29.29.29
 69hr.com 119.29.29.29
 69jianzhi.com 119.29.29.29
+69mok.com 119.29.29.29
 69ps.com 119.29.29.29
 69shu.org 119.29.29.29
 69xiu.com 119.29.29.29
@@ -15080,7 +15079,6 @@ clx360.com 119.29.29.29
 clyric.com 119.29.29.29
 clz.me 119.29.29.29
 clzqlhj.com 119.29.29.29
-clzycld.com 119.29.29.29
 cm-analysis.com 119.29.29.29
 cm-iov.com 119.29.29.29
 cm-worklink.com 119.29.29.29
@@ -22811,6 +22809,7 @@ gameinns.com 119.29.29.29
 gameiy.com 119.29.29.29
 gamejym.com 119.29.29.29
 gamekee.com 119.29.29.29
+gamekuaishou.com 119.29.29.29
 gameley.com 119.29.29.29
 gameloveman.com 119.29.29.29
 gamemale.com 119.29.29.29
@@ -33509,6 +33508,7 @@ kevinlq.com 119.29.29.29
 kexianggroup.com 119.29.29.29
 kexin001.com 119.29.29.29
 kexing100.com 119.29.29.29
+kexingchem.com 119.29.29.29
 kexinguoji.com 119.29.29.29
 kexinhaoma.org 119.29.29.29
 kexinyun.org 119.29.29.29
@@ -42384,7 +42384,6 @@ pingxonline.com 119.29.29.29
 pingxuan123.com 119.29.29.29
 pingxx.com 119.29.29.29
 pingyin.cc 119.29.29.29
-pingyou.cc 119.29.29.29
 pinhaohuo.com 119.29.29.29
 pinhuba.com 119.29.29.29
 pinhui001.com 119.29.29.29
@@ -44621,6 +44620,7 @@ qygzbxpt.com 119.29.29.29
 qyham.com 119.29.29.29
 qyi.io 119.29.29.29
 qyiliao.com 119.29.29.29
+qyjks.com 119.29.29.29
 qyjpzx.com 119.29.29.29
 qykh2009.com 119.29.29.29
 qyle1.com 119.29.29.29
@@ -50501,7 +50501,6 @@ tc12580.com 119.29.29.29
 tc199.net 119.29.29.29
 tc9011.com 119.29.29.29
 tc930.com 119.29.29.29
-tccaijing.com 119.29.29.29
 tccqb.com 119.29.29.29
 tccxfw.com 119.29.29.29
 tcdai.com 119.29.29.29
@@ -56633,7 +56632,6 @@ wy182000.com 119.29.29.29
 wy213.com 119.29.29.29
 wyaoqing.com 119.29.29.29
 wybbao.com 119.29.29.29
-wybg666.com 119.29.29.29
 wybgs.com 119.29.29.29
 wycanyin.com 119.29.29.29
 wycntv.com 119.29.29.29
@@ -56985,6 +56983,7 @@ xdgalaxy.com 119.29.29.29
 xdh0808.com 119.29.29.29
 xdhbs.com 119.29.29.29
 xdhcn.com 119.29.29.29
+xdiarys.com 119.29.29.29
 xdj-sz.com 119.29.29.29
 xdja.com 119.29.29.29
 xdjc.org 119.29.29.29
