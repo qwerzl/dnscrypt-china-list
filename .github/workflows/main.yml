@@ -24,7 +24,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add ./*
-          git commit -m "Add changes" -a --allow-empty
+          git commit -m "Updated at $(TZ=Asia/Shanghai date)" -a --allow-empty
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
