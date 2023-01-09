@@ -1831,7 +1831,6 @@
 1sapp.com 119.29.29.29
 1shang.com 119.29.29.29
 1shangbiao.com 119.29.29.29
-1sheng.com 119.29.29.29
 1shoucang.com 119.29.29.29
 1sj.tv 119.29.29.29
 1sohu.com 119.29.29.29
@@ -15189,7 +15188,6 @@ cnacg.cc 119.29.29.29
 cnad.com 119.29.29.29
 cnaf.com 119.29.29.29
 cnagcoin.com 119.29.29.29
-cnaho.com 119.29.29.29
 cnaicpa.org 119.29.29.29
 cnaidc.com 119.29.29.29
 cnaifm.com 119.29.29.29
@@ -17276,7 +17274,6 @@ daododo.com 119.29.29.29
 daoduoduo.com 119.29.29.29
 daofengdj.com 119.29.29.29
 daogeziyuan.com 119.29.29.29
-daogoubang.com 119.29.29.29
 daoguo.com 119.29.29.29
 daohang4.com 119.29.29.29
 daohang88.com 119.29.29.29
@@ -24099,6 +24096,7 @@ gsrecv.com 119.29.29.29
 gssdlv.com 119.29.29.29
 gssfgk.com 119.29.29.29
 gst-china.net 119.29.29.29
+gst.prod.dl.playstation.net 119.29.29.29
 gstarcad.com 119.29.29.29
 gstdt.com 119.29.29.29
 gstonegames.com 119.29.29.29
@@ -32844,7 +32842,6 @@ jyss.com 119.29.29.29
 jyss.net 119.29.29.29
 jysyzk.com 119.29.29.29
 jytdlz.com 119.29.29.29
-jyteasy.com 119.29.29.29
 jywstw.com 119.29.29.29
 jyxdyzx.com 119.29.29.29
 jyxfzd.com 119.29.29.29
@@ -37109,7 +37106,6 @@ maiduo.com 119.29.29.29
 maienguoji.com 119.29.29.29
 maifjb.com 119.29.29.29
 maigoo.com 119.29.29.29
-maiguduo.com 119.29.29.29
 maihanji.com 119.29.29.29
 maihaoche.com 119.29.29.29
 maihehd.com 119.29.29.29
@@ -46422,6 +46418,7 @@ sgnet.cc 119.29.29.29
 sgnongkang.com 119.29.29.29
 sgou.com 119.29.29.29
 sgshero.com 119.29.29.29
+sgst.prod.dl.playstation.net 119.29.29.29
 sgsugou.com 119.29.29.29
 sgsxw.com 119.29.29.29
 sguo.com 119.29.29.29
@@ -48285,7 +48282,6 @@ so-a.net 119.29.29.29
 so-b.com 119.29.29.29
 so-love.com 119.29.29.29
 so-naver.com 119.29.29.29
-so-voioe.com 119.29.29.29
 so-w.com 119.29.29.29
 so.com 119.29.29.29
 so147.com 119.29.29.29
@@ -53756,6 +53752,7 @@ vuejscaff.com 119.29.29.29
 vuepr.icu 119.29.29.29
 vuevideo.net 119.29.29.29
 vulbox.com 119.29.29.29
+vulcan.dl.playstation.net 119.29.29.29
 vulnhunt.com 119.29.29.29
 vulogcn.com 119.29.29.29
 vultr1.com 119.29.29.29
@@ -58143,7 +58140,6 @@ xjzdjx.com 119.29.29.29
 xjzhongwu.com 119.29.29.29
 xjzlyy.com 119.29.29.29
 xjzsks.com 119.29.29.29
-xjzxedu.net 119.29.29.29
 xjzyplay.com 119.29.29.29
 xk8090.com 119.29.29.29
 xk89.com 119.29.29.29
@@ -61251,7 +61247,6 @@ yuenshui.com 119.29.29.29
 yuenwooping-truelegend.com 119.29.29.29
 yuepaijia.com 119.29.29.29
 yuepaow.net 119.29.29.29
-yuepinwang.com 119.29.29.29
 yueplus.ink 119.29.29.29
 yueqi.com 119.29.29.29
 yueqiquan.com 119.29.29.29
@@ -63239,7 +63234,6 @@ zhuangxiu567.com 119.29.29.29
 zhuangxiubao.com 119.29.29.29
 zhuangxiuzhai.com 119.29.29.29
 zhuangyi.com 119.29.29.29
-zhuangzhuang.cf 119.29.29.29
 zhuangzhuang.net 119.29.29.29
 zhuanhuanqi.com 119.29.29.29
 zhuaniao.com 119.29.29.29
