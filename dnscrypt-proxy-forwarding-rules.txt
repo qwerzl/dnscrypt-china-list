@@ -1938,6 +1938,7 @@
 210166.com 119.29.29.29
 210997.com 119.29.29.29
 210z.com 119.29.29.29
+2113.net 119.29.29.29
 2115.com 119.29.29.29
 211600.com 119.29.29.29
 211ic.com 119.29.29.29
@@ -6547,6 +6548,7 @@
 92wx.com 119.29.29.29
 92wy.com 119.29.29.29
 92xygame.com 119.29.29.29
+92yo.com 119.29.29.29
 930hh.com 119.29.29.29
 9312.net 119.29.29.29
 933.moe 119.29.29.29
@@ -8738,6 +8740,7 @@ apizza.cc 119.29.29.29
 apizza.net 119.29.29.29
 apjingsi.com 119.29.29.29
 apk3.com 119.29.29.29
+apk4399.com 119.29.29.29
 apkevery.com 119.29.29.29
 apkpackagesys.com 119.29.29.29
 apkplug.com 119.29.29.29
@@ -15899,6 +15902,7 @@ comiis.com 119.29.29.29
 comingchina.com 119.29.29.29
 comlan.com 119.29.29.29
 comlbs.com 119.29.29.29
+commander1.com 119.29.29.29
 commchina.net 119.29.29.29
 communicatte.com 119.29.29.29
 comocloud.net 119.29.29.29
@@ -27915,7 +27919,6 @@ huntic.com 119.29.29.29
 huntkey.com 119.29.29.29
 huntkeydiy.com 119.29.29.29
 hunuo.com 119.29.29.29
-hunyinxuetang.com 119.29.29.29
 hunyinyiyuan.com 119.29.29.29
 huo-cun.com 119.29.29.29
 huo119.com 119.29.29.29
@@ -28246,6 +28249,7 @@ hytcshare.com 119.29.29.29
 hytd.com 119.29.29.29
 hytera.com 119.29.29.29
 hytic.net 119.29.29.29
+hyule74.com 119.29.29.29
 hyundai-hmtc.com 119.29.29.29
 hyundaibeijing.com 119.29.29.29
 hyuuhit.com 119.29.29.29
@@ -32437,6 +32441,7 @@ juanlaoda.com 119.29.29.29
 juanpi.com 119.29.29.29
 juanpimao.com 119.29.29.29
 juanshangwang.com 119.29.29.29
+juanta.com 119.29.29.29
 juanyunkeji.com 119.29.29.29
 juaq.com 119.29.29.29
 jubaopay.com 119.29.29.29
@@ -34611,6 +34616,7 @@ lansha.tv 119.29.29.29
 lanshanweb.com 119.29.29.29
 lanshenniao.com 119.29.29.29
 lanshizi.com 119.29.29.29
+lant6.com 119.29.29.29
 lantaoyu.com 119.29.29.29
 lantian-hotel.com 119.29.29.29
 lantian.tv 119.29.29.29
@@ -36042,6 +36048,7 @@ llsstaging.com 119.29.29.29
 lltaohuaxiang.com 119.29.29.29
 lltllt.com 119.29.29.29
 lltoken.com 119.29.29.29
+llttc.com 119.29.29.29
 llxzu.com 119.29.29.29
 llycloud.com 119.29.29.29
 llzg.com 119.29.29.29
@@ -41488,6 +41495,7 @@ p4pp.com 119.29.29.29
 p512.com 119.29.29.29
 p5412.com 119.29.29.29
 p5w.net 119.29.29.29
+p6157.com 119.29.29.29
 p8games.com 119.29.29.29
 p99998888.com 119.29.29.29
 pa.ci 119.29.29.29
@@ -43899,7 +43907,9 @@ qnbar.com 119.29.29.29
 qncyw.com 119.29.29.29
 qndb.net 119.29.29.29
 qnfuli.com 119.29.29.29
+qngcjx.com 119.29.29.29
 qngslb.com 119.29.29.29
+qnhdkj.com 119.29.29.29
 qnhuifu.com 119.29.29.29
 qnjslm.com 119.29.29.29
 qnl1.com 119.29.29.29
@@ -45416,6 +45426,7 @@ rulejianzhan.com 119.29.29.29
 rulesofsurvivalgame.com 119.29.29.29
 rum8.perf.linkedin.com 119.29.29.29
 rumt-sg.com 119.29.29.29
+rumt-zh.com 119.29.29.29
 runcmd.com 119.29.29.29
 runcome.com 119.29.29.29
 runde666.net 119.29.29.29
@@ -46879,6 +46890,7 @@ shenzhenmarathon.org 119.29.29.29
 shenzhenshouxin.com 119.29.29.29
 shenzhentong.com 119.29.29.29
 shenzhentour.com 119.29.29.29
+shenzhenware.com 119.29.29.29
 shepai1688.com 119.29.29.29
 shequfu.com 119.29.29.29
 shequfu.net 119.29.29.29
@@ -49968,6 +49980,7 @@ tadseeker.com 119.29.29.29
 tadu.com 119.29.29.29
 taeapp.com 119.29.29.29
 tag.gg 119.29.29.29
+tagcommander.com 119.29.29.29
 tagjj.com 119.29.29.29
 taglyst.com 119.29.29.29
 tagphi.net 119.29.29.29
@@ -58863,6 +58876,7 @@ xxmh223.com 119.29.29.29
 xxmh225.com 119.29.29.29
 xxmh226.com 119.29.29.29
 xxmh460.com 119.29.29.29
+xxminizu.com 119.29.29.29
 xxnets.net 119.29.29.29
 xxnmcd.com 119.29.29.29
 xxoojoke.com 119.29.29.29
