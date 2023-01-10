@@ -19609,6 +19609,7 @@ e2capp.com 119.29.29.29
 e2esoft.com 119.29.29.29
 e2say.com 119.29.29.29
 e360e.com 119.29.29.29
+e360xs.com 119.29.29.29
 e365.org 119.29.29.29
 e365mall.com 119.29.29.29
 e3cloud.com 119.29.29.29
@@ -34184,6 +34185,7 @@ kuman56.com 119.29.29.29
 kumankeji.net 119.29.29.29
 kumaoyun.com 119.29.29.29
 kumifeng.com 119.29.29.29
+kunduo.com 119.29.29.29
 kunfpuz.com 119.29.29.29
 kungfucloud.com 119.29.29.29
 kungfuenglish.com 119.29.29.29
@@ -40072,7 +40074,6 @@ nfwin.com 119.29.29.29
 nfyk.com 119.29.29.29
 nfzhouyi.com 119.29.29.29
 nfzmbrand.com 119.29.29.29
-nfzplus.com 119.29.29.29
 ng-alain.com 119.29.29.29
 nga.wiki 119.29.29.29
 ngabbs.com 119.29.29.29
@@ -45920,6 +45921,7 @@ scqcp.com 119.29.29.29
 scqiuchang.com 119.29.29.29
 scrcu.com 119.29.29.29
 scrdzf.com 119.29.29.29
+scredcross.com 119.29.29.29
 scriptjc.com 119.29.29.29
 scrmtech.com 119.29.29.29
 scrsw.net 119.29.29.29
@@ -47017,6 +47019,7 @@ shinewing.com 119.29.29.29
 shineyie.com 119.29.29.29
 shinianonline.com 119.29.29.29
 shiningmidas.com 119.29.29.29
+shiningnew.com 119.29.29.29
 shinnytech.com 119.29.29.29
 shinsoukun.com 119.29.29.29
 shinycg.com 119.29.29.29
@@ -54332,7 +54335,6 @@ wdstory.com 119.29.29.29
 wdszb.com 119.29.29.29
 wdtlfj.com 119.29.29.29
 wduw.com 119.29.29.29
-wdw6.com 119.29.29.29
 wdw88.com 119.29.29.29
 wdxmzy.com 119.29.29.29
 wdxtub.com 119.29.29.29
@@ -57975,6 +57977,7 @@ xitongtu.net 119.29.29.29
 xitongwanjia.com 119.29.29.29
 xitongxz.net 119.29.29.29
 xitongzhijia.net 119.29.29.29
+xitongzu.com 119.29.29.29
 xitouwang.com 119.29.29.29
 xitu.io 119.29.29.29
 xituan.com 119.29.29.29
@@ -58198,7 +58201,6 @@ xltrip.com 119.29.29.29
 xltzgy.com 119.29.29.29
 xluos.com 119.29.29.29
 xlwxsw.com 119.29.29.29
-xlxzikao.com 119.29.29.29
 xlylf.com 119.29.29.29
 xlyouxi.com 119.29.29.29
 xlys1904.com 119.29.29.29
@@ -60122,6 +60124,7 @@ yishuzi.com 119.29.29.29
 yishuzi.org 119.29.29.29
 yishuziti.com 119.29.29.29
 yisier.com 119.29.29.29
+yisocms.com 119.29.29.29
 yisou.com 119.29.29.29
 yisouti.com 119.29.29.29
 yisouyifa.com 119.29.29.29
@@ -61713,6 +61716,7 @@ yx-g.com 119.29.29.29
 yx-life.com 119.29.29.29
 yx-s.com 119.29.29.29
 yx-s.net 119.29.29.29
+yx007.com 119.29.29.29
 yx0599.com 119.29.29.29
 yx090.com 119.29.29.29
 yx10011.com 119.29.29.29
@@ -63058,6 +63062,7 @@ zhongan.io 119.29.29.29
 zhonganfengshang.com 119.29.29.29
 zhonganinfo.com 119.29.29.29
 zhongbaounion.com 119.29.29.29
+zhongbenkeji.com 119.29.29.29
 zhongbingtongxin.com 119.29.29.29
 zhongbowenwu.com 119.29.29.29
 zhongboxinwen.com 119.29.29.29
