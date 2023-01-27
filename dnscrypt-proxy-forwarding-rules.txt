@@ -2214,7 +2214,6 @@
 2541.com 119.29.29.29
 254game.com 119.29.29.29
 255616.com 119.29.29.29
-2556r.com 119.29.29.29
 256app.com 119.29.29.29
 25752.com 119.29.29.29
 258288.com 119.29.29.29
@@ -13094,7 +13093,6 @@ cfmoto.com 119.29.29.29
 cfogc.com 119.29.29.29
 cfpa.pw 119.29.29.29
 cfpsf.com 119.29.29.29
-cfryny.com 119.29.29.29
 cfsino.com 119.29.29.29
 cfsl2017.com 119.29.29.29
 cftea.com 119.29.29.29
@@ -25313,7 +25311,6 @@ haoqq.com 119.29.29.29
 haorc.com 119.29.29.29
 haoread.com 119.29.29.29
 haorencai.net 119.29.29.29
-haorendao.com 119.29.29.29
 haorooms.com 119.29.29.29
 haoseals.com 119.29.29.29
 haosenchina.com 119.29.29.29
@@ -27595,6 +27592,7 @@ huazhu.com 119.29.29.29
 huazhuanapp.com 119.29.29.29
 huazhucorp.com 119.29.29.29
 huazi55.xyz 119.29.29.29
+huazirc.com 119.29.29.29
 hubcyts.com 119.29.29.29
 hubei-design.com 119.29.29.29
 hubeibbs.net 119.29.29.29
@@ -32185,7 +32183,6 @@ jsbgj.com 119.29.29.29
 jscdn.host 119.29.29.29
 jsceou.com 119.29.29.29
 jsche.net 119.29.29.29
-jschengta.com 119.29.29.29
 jschunxing.com 119.29.29.29
 jscj.com 119.29.29.29
 jsclearing.com 119.29.29.29
@@ -42486,7 +42483,6 @@ pp51.com 119.29.29.29
 pp6.cc 119.29.29.29
 pp63.com 119.29.29.29
 pp66.cc 119.29.29.29
-pp70.com 119.29.29.29
 pp8.com 119.29.29.29
 pp9l.com 119.29.29.29
 ppaikd.com 119.29.29.29
@@ -43552,7 +43548,6 @@ qinyi.net 119.29.29.29
 qinzc.me 119.29.29.29
 qinzhe.com 119.29.29.29
 qinzhou8.com 119.29.29.29
-qinzi7.com 119.29.29.29
 qinzidna.com 119.29.29.29
 qinziheng.com 119.29.29.29
 qionghaif.com 119.29.29.29
@@ -50639,6 +50634,7 @@ thn21.com 119.29.29.29
 thoughtworkers.org 119.29.29.29
 thrbs.com 119.29.29.29
 threadcn.com 119.29.29.29
+threatbook.net 119.29.29.29
 threegorgestours.com 119.29.29.29
 threeol.com 119.29.29.29
 threetong.com 119.29.29.29
@@ -51278,7 +51274,6 @@ tongye.biz 119.29.29.29
 tongyi.com 119.29.29.29
 tongyidrying.com 119.29.29.29
 tongyongji.net 119.29.29.29
-tongyou188.com 119.29.29.29
 tongyuanos.com 119.29.29.29
 tongyue.com 119.29.29.29
 tongzhuo100.com 119.29.29.29
@@ -56143,7 +56138,6 @@ wuxijy.com 119.29.29.29
 wuximarathon.com 119.29.29.29
 wuxin.info 119.29.29.29
 wuxinban.com 119.29.29.29
-wuxiqiangheng.com 119.29.29.29
 wuxiwang.net 119.29.29.29
 wuyang-honda.com 119.29.29.29
 wuyangplatform.com 119.29.29.29
@@ -58948,6 +58942,7 @@ yafeilinux.com 119.29.29.29
 yageo.tech 119.29.29.29
 yago-mall.com 119.29.29.29
 yahacode.com 119.29.29.29
+yahaha.net 119.29.29.29
 yahaizi.com 119.29.29.29
 yahoo001.com 119.29.29.29
 yahotab.com 119.29.29.29
@@ -62996,7 +62991,6 @@ zhongtuobang.com 119.29.29.29
 zhongwei-info.com 119.29.29.29
 zhongweijy.com 119.29.29.29
 zhongwenhexinqikan.com 119.29.29.29
-zhongwenqing.com 119.29.29.29
 zhongwucan.com 119.29.29.29
 zhongxiangdichan.net 119.29.29.29
 zhongxiaole.net 119.29.29.29
@@ -63824,7 +63818,6 @@ zongheng.com 119.29.29.29
 zongheng001.com 119.29.29.29
 zonghengke.com 119.29.29.29
 zonghengnews.com 119.29.29.29
-zonglai.mobi 119.29.29.29
 zongming.net 119.29.29.29
 zongs365.com 119.29.29.29
 zongshenmotor.com 119.29.29.29
