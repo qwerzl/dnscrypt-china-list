@@ -1565,6 +1565,7 @@
 17wclass.com 119.29.29.29
 17weike.com 119.29.29.29
 17wendao.com 119.29.29.29
+17whz.com 119.29.29.29
 17win.com 119.29.29.29
 17ww.cc 119.29.29.29
 17xie.com 119.29.29.29
@@ -18154,6 +18155,7 @@ digu365.com 119.29.29.29
 digua.com 119.29.29.29
 diguage.com 119.29.29.29
 diguan.wang 119.29.29.29
+diguazu.com 119.29.29.29
 diguobbs.com 119.29.29.29
 dihuikj.com 119.29.29.29
 diiqu.com 119.29.29.29
@@ -18438,7 +18440,6 @@ dmiug.com 119.29.29.29
 dmjtxt.com 119.29.29.29
 dmlei.com 119.29.29.29
 dmm87d.xyz 119.29.29.29
-dmmds.com 119.29.29.29
 dmozdir.org 119.29.29.29
 dmpans.com 119.29.29.29
 dmqst.com 119.29.29.29
@@ -19960,6 +19961,7 @@ eduzhixin.com 119.29.29.29
 eduzs.net 119.29.29.29
 edward-han.com 119.29.29.29
 edwiv.com 119.29.29.29
+ee-nav.com 119.29.29.29
 ee1234.com 119.29.29.29
 ee68.com 119.29.29.29
 ee8828.com 119.29.29.29
@@ -35443,6 +35445,7 @@ lingdianksw.com 119.29.29.29
 lingdonghuyu.com 119.29.29.29
 lingdunwang.com 119.29.29.29
 lingduohome.com 119.29.29.29
+lingduzuji.com 119.29.29.29
 lingdz.com 119.29.29.29
 lingfei.wang 119.29.29.29
 lingfengyun.com 119.29.29.29
@@ -39592,6 +39595,7 @@ nbahi.com 119.29.29.29
 nbahjx.com 119.29.29.29
 nbaidai.com 119.29.29.29
 nball.cc 119.29.29.29
+nbalxhf.com 119.29.29.29
 nbaqmq.com 119.29.29.29
 nbayaobasketballclub.com 119.29.29.29
 nbazww.com 119.29.29.29
@@ -40196,6 +40200,7 @@ nlxn.com 119.29.29.29
 nlypx.com 119.29.29.29
 nlzpy.com 119.29.29.29
 nm8yx.com 119.29.29.29
+nmbxd1.com 119.29.29.29
 nmet168.com 119.29.29.29
 nmgchigang.com 119.29.29.29
 nmgd.com 119.29.29.29
@@ -40789,6 +40794,7 @@ okooe.com 119.29.29.29
 okooo.com 119.29.29.29
 okoooimg.com 119.29.29.29
 okpush.com 119.29.29.29
+okpython.com 119.29.29.29
 okrecovery.com 119.29.29.29
 okskills.com 119.29.29.29
 oksun.com 119.29.29.29
@@ -49146,7 +49152,6 @@ suqian360.com 119.29.29.29
 suqicloud.com 119.29.29.29
 suqishi.com 119.29.29.29
 suqnn.com 119.29.29.29
-surdoc.net 119.29.29.29
 sure56.com 119.29.29.29
 suremotoo.site 119.29.29.29
 surgerycast.com 119.29.29.29
@@ -55926,6 +55931,7 @@ wufazhuce.com 119.29.29.29
 wufuba.com 119.29.29.29
 wufun.net 119.29.29.29
 wufuquanlawyer.com 119.29.29.29
+wugongdong.com 119.29.29.29
 wuguiyunwei.com 119.29.29.29
 wuguoren.com 119.29.29.29
 wuguyufen.com 119.29.29.29
@@ -61390,6 +61396,7 @@ yushunews.com 119.29.29.29
 yusi.com 119.29.29.29
 yusi.tv 119.29.29.29
 yusi123.com 119.29.29.29
+yutaoyouxi.com 119.29.29.29
 yuteng.site 119.29.29.29
 yutennet.com 119.29.29.29
 yutian.cc 119.29.29.29
