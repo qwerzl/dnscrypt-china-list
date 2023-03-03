@@ -1965,6 +1965,7 @@
 21epub.com 119.29.29.29
 21fid.com 119.29.29.29
 21food.com 119.29.29.29
+21ge2.com 119.29.29.29
 21hh.com 119.29.29.29
 21hubei.com 119.29.29.29
 21hubei.net 119.29.29.29
@@ -2852,6 +2853,7 @@
 365cgw.com 119.29.29.29
 365chanlun.com 119.29.29.29
 365che.net 119.29.29.29
+365cyd.com 119.29.29.29
 365cyd.net 119.29.29.29
 365daan.com 119.29.29.29
 365dhw.com 119.29.29.29
@@ -3843,6 +3845,7 @@
 51kehui.com 119.29.29.29
 51kids.com 119.29.29.29
 51kik.com 119.29.29.29
+51kim.com 119.29.29.29
 51kt.com 119.29.29.29
 51ktbyte.com 119.29.29.29
 51kupai.com 119.29.29.29
@@ -6771,6 +6774,7 @@
 98mp.com 119.29.29.29
 98nice.com 119.29.29.29
 98one.com 119.29.29.29
+98t.la 119.29.29.29
 98t.net 119.29.29.29
 98weixin.com 119.29.29.29
 98znz.com 119.29.29.29
@@ -7006,6 +7010,7 @@
 9wee.net 119.29.29.29
 9weihu.com 119.29.29.29
 9wuli.com 119.29.29.29
+9wwx.com 119.29.29.29
 9xiazaiqi.com 119.29.29.29
 9xiu.com 119.29.29.29
 9xiuzb.com 119.29.29.29
@@ -18287,6 +18292,7 @@ djyyh.com 119.29.29.29
 djzbl.com 119.29.29.29
 djzhj.com 119.29.29.29
 djzr88.com 119.29.29.29
+djzxn47.com 119.29.29.29
 dkdangle.com 119.29.29.29
 dkjiaoyang.com 119.29.29.29
 dklogs.net 119.29.29.29
@@ -23406,6 +23412,7 @@ gloryre.com 119.29.29.29
 gloryview.com 119.29.29.29
 glorze.com 119.29.29.29
 glosku.com 119.29.29.29
+glowapp.fun 119.29.29.29
 glp.com 119.29.29.29
 glqh.com 119.29.29.29
 glshimg.com 119.29.29.29
@@ -33029,6 +33036,7 @@ kczhaosheng.com 119.29.29.29
 kd120.com 119.29.29.29
 kd128.com 119.29.29.29
 kd185.com 119.29.29.29
+kd21xs.com 119.29.29.29
 kd9000.com 119.29.29.29
 kdatacenter.com 119.29.29.29
 kdbbx.com 119.29.29.29
@@ -42876,6 +42884,7 @@ qeerd.com 119.29.29.29
 qefee.com 119.29.29.29
 qeto.com 119.29.29.29
 qf027.com 119.29.29.29
+qfamilylaw.com 119.29.29.29
 qfang.com 119.29.29.29
 qfangimg.com 119.29.29.29
 qfedu.com 119.29.29.29
@@ -44294,6 +44303,7 @@ r51.net 119.29.29.29
 r5k.com 119.29.29.29
 r5tao.com 119.29.29.29
 r77777777.com 119.29.29.29
+ra2.com 119.29.29.29
 ra2ol.com 119.29.29.29
 rabbitpre.com 119.29.29.29
 rabbitpre.me 119.29.29.29
@@ -47626,6 +47636,7 @@ sjmxx.com 119.29.29.29
 sjono.com 119.29.29.29
 sjpcw.com 119.29.29.29
 sjq315.com 119.29.29.29
+sjqcj.com 119.29.29.29
 sjrwzz.com 119.29.29.29
 sjsbk.com 119.29.29.29
 sjsydq.com 119.29.29.29
@@ -48703,6 +48714,7 @@ stourweb.net 119.29.29.29
 stovol.club 119.29.29.29
 stoyard.com 119.29.29.29
 str-mo.com 119.29.29.29
+straitchain.com 119.29.29.29
 strconv.com 119.29.29.29
 strcpy.me 119.29.29.29
 streamaxtech.com 119.29.29.29
@@ -58144,6 +58156,7 @@ xsm818.com 119.29.29.29
 xsmaofa.com 119.29.29.29
 xsmnews.com 119.29.29.29
 xsmore.com 119.29.29.29
+xsmy54s.com 119.29.29.29
 xsnsyh.com 119.29.29.29
 xsool.com 119.29.29.29
 xsp0311.com 119.29.29.29
@@ -62554,10 +62567,12 @@ zhiluo.net 119.29.29.29
 zhimacangku.com 119.29.29.29
 zhimace.com 119.29.29.29
 zhimantian.com 119.29.29.29
+zhimapay.net 119.29.29.29
 zhimaruanjian.com 119.29.29.29
 zhimatech.com 119.29.29.29
 zhimawenda.com 119.29.29.29
 zhimax.com 119.29.29.29
+zhimaxkf.com 119.29.29.29
 zhimg.com 119.29.29.29
 zhimi.com 119.29.29.29
 zhimoe.com 119.29.29.29
