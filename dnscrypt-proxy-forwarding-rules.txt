@@ -48977,7 +48977,6 @@ superzl.com 119.29.29.29
 supesite.com 119.29.29.29
 supesoft.com 119.29.29.29
 supfast.net 119.29.29.29
-supfree.net 119.29.29.29
 suplaymart.com 119.29.29.29
 supmeter.com 119.29.29.29
 supmil.com 119.29.29.29
@@ -51880,7 +51879,6 @@ twcad.com 119.29.29.29
 twcczhu.com 119.29.29.29
 twd2.me 119.29.29.29
 twd2.net 119.29.29.29
-twdm.net 119.29.29.29
 tweakcube.com 119.29.29.29
 twguozao.com 119.29.29.29
 twh5.com 119.29.29.29
