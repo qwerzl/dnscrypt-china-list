@@ -2821,7 +2821,6 @@
 3618med.com 119.29.29.29
 361a.com 119.29.29.29
 361dai.com 119.29.29.29
-361games.com 119.29.29.29
 361mogame.com 119.29.29.29
 361shipin.com 119.29.29.29
 361sport.com 119.29.29.29
@@ -6143,6 +6142,7 @@
 8cheche.com 119.29.29.29
 8cname.com 119.29.29.29
 8cnet.com 119.29.29.29
+8d7hhh8x.com 119.29.29.29
 8da.com 119.29.29.29
 8ddao.com 119.29.29.29
 8dexpress.com 119.29.29.29
@@ -7274,6 +7274,7 @@ adapay.tech 119.29.29.29
 adarrive.com 119.29.29.29
 adaxin.com 119.29.29.29
 adbats.com 119.29.29.29
+adbkwai.com 119.29.29.29
 adbxb.com 119.29.29.29
 adc-expo.com 119.29.29.29
 adccd.com 119.29.29.29
@@ -8299,7 +8300,6 @@ amo9.com 119.29.29.29
 amobbs.com 119.29.29.29
 amoe.cc 119.29.29.29
 amon.org 119.29.29.29
-amon1997.com 119.29.29.29
 ampc8.com 119.29.29.29
 ampcn.com 119.29.29.29
 amplesky.com 119.29.29.29
@@ -8378,7 +8378,6 @@ anglo-chinese.com 119.29.29.29
 angogotech.net 119.29.29.29
 angruo.com 119.29.29.29
 angrymiao.com 119.29.29.29
-anguanjia.com 119.29.29.29
 angui.org 119.29.29.29
 angwei.net 119.29.29.29
 anhei2.com 119.29.29.29
@@ -9235,6 +9234,7 @@ awstar.net 119.29.29.29
 awtmt.com 119.29.29.29
 awuming.com 119.29.29.29
 awx1.com 119.29.29.29
+awyyzx.com 119.29.29.29
 ax2nc4.ren 119.29.29.29
 ax630.com 119.29.29.29
 axatp.com 119.29.29.29
@@ -10448,6 +10448,7 @@ biaoqingjia.com 119.29.29.29
 biaoqingmm.com 119.29.29.29
 biaotukeji.com 119.29.29.29
 biaoyi.com 119.29.29.29
+biaozhangshi.com 119.29.29.29
 biaozhiku.com 119.29.29.29
 biaozhun.org 119.29.29.29
 biaozhun8.com 119.29.29.29
@@ -11129,7 +11130,6 @@ bliner.me 119.29.29.29
 bling.link 119.29.29.29
 blingabc.com 119.29.29.29
 blingclubs.com 119.29.29.29
-blinkol.com 119.29.29.29
 blissmall.net 119.29.29.29
 blizzardcn.com 119.29.29.29
 bln7.com 119.29.29.29
@@ -14506,6 +14506,7 @@ chunjingtech.com 119.29.29.29
 chunjiws.com 119.29.29.29
 chunmi.com 119.29.29.29
 chunqiuwang.com 119.29.29.29
+chunquff.com 119.29.29.29
 chunshuitang.com 119.29.29.29
 chunshuizhijia.com 119.29.29.29
 chunsuns.com 119.29.29.29
@@ -16431,7 +16432,6 @@ cszsjy.com 119.29.29.29
 cszx.com 119.29.29.29
 cszybdf.com 119.29.29.29
 cszykt.com 119.29.29.29
-cszywl.net 119.29.29.29
 cszzjc.com 119.29.29.29
 ct-cdm.com 119.29.29.29
 ct-laser.com 119.29.29.29
@@ -18609,7 +18609,6 @@ dongfund.com 119.29.29.29
 dongge.com 119.29.29.29
 donghaifunds.com 119.29.29.29
 donghao.org 119.29.29.29
-donghongqiao.com 119.29.29.29
 donghulvdao.com 119.29.29.29
 dongjinyu.com 119.29.29.29
 dongjun.cc 119.29.29.29
@@ -18942,6 +18941,7 @@ dsfdc.com 119.29.29.29
 dsfof.com 119.29.29.29
 dshigao.com 119.29.29.29
 dshrc.com 119.29.29.29
+dsitni.com 119.29.29.29
 dskb.co 119.29.29.29
 dskystudio.com 119.29.29.29
 dslbuy.com 119.29.29.29
@@ -23159,6 +23159,7 @@ ggo.la 119.29.29.29
 ggo.net 119.29.29.29
 ggqule.com 119.29.29.29
 ggqx.com 119.29.29.29
+ggrsc.com 119.29.29.29
 ggsafe.com 119.29.29.29
 ggsq.cc 119.29.29.29
 ggt1024.com 119.29.29.29
@@ -24114,7 +24115,6 @@ gugu5.com 119.29.29.29
 gugud.com 119.29.29.29
 gugudang.com 119.29.29.29
 guguread.com 119.29.29.29
-gugutown.com 119.29.29.29
 guguyu.com 119.29.29.29
 guhai66.com 119.29.29.29
 guhuozaiol.com 119.29.29.29
@@ -24133,7 +24133,6 @@ guihua.com 119.29.29.29
 guihuayun.com 119.29.29.29
 guiji.com 119.29.29.29
 guijinshu.com 119.29.29.29
-guiliangtechnology.com 119.29.29.29
 guilin.la 119.29.29.29
 guilinhd.com 119.29.29.29
 guilinlife.com 119.29.29.29
@@ -29368,7 +29367,6 @@ inetech.fun 119.29.29.29
 inetgoes.com 119.29.29.29
 inetnoc.com 119.29.29.29
 inewhope.com 119.29.29.29
-inewland.com 119.29.29.29
 inewoffice.com 119.29.29.29
 inezha.com 119.29.29.29
 infarts.net 119.29.29.29
@@ -29978,7 +29976,6 @@ itjuzi.com 119.29.29.29
 itkeyword.com 119.29.29.29
 itkoudai.com 119.29.29.29
 itlu.org 119.29.29.29
-itmamba.net 119.29.29.29
 itmanbu.com 119.29.29.29
 itmastergame.com 119.29.29.29
 itmind.net 119.29.29.29
@@ -30187,6 +30184,7 @@ ixinyou.com 119.29.29.29
 ixiqi.com 119.29.29.29
 ixiqin.com 119.29.29.29
 ixiumei.com 119.29.29.29
+ixiway.com 119.29.29.29
 ixixili.com 119.29.29.29
 ixizang.com 119.29.29.29
 ixmu.net 119.29.29.29
@@ -36609,6 +36607,7 @@ lyhuadu.com 119.29.29.29
 lyjiayi.com 119.29.29.29
 lyjunshi.com 119.29.29.29
 lyjxwl.com 119.29.29.29
+lykxm.com 119.29.29.29
 lylryy.com 119.29.29.29
 lymil.com 119.29.29.29
 lynkco.com 119.29.29.29
@@ -37720,6 +37719,7 @@ mgplay.com.tw 119.29.29.29
 mgpyh.com 119.29.29.29
 mgsdk.com 119.29.29.29
 mgslb.com 119.29.29.29
+mgsyiv.com 119.29.29.29
 mgtv.com 119.29.29.29
 mgw999.com 119.29.29.29
 mgwxw.com 119.29.29.29
@@ -39773,6 +39773,7 @@ nfc315.com 119.29.29.29
 nfcic.com 119.29.29.29
 nfcmag.com 119.29.29.29
 nffund.com 119.29.29.29
+nfg02df.com 119.29.29.29
 nflchina.com 119.29.29.29
 nfmedia.com 119.29.29.29
 nfmrtfv.com 119.29.29.29
@@ -41353,8 +41354,6 @@ paoxue.com 119.29.29.29
 papa21.com 119.29.29.29
 papa91.com 119.29.29.29
 papaao.com 119.29.29.29
-papaao4.com 119.29.29.29
-papaao6.com 119.29.29.29
 papaao7.com 119.29.29.29
 papajohnshanghai.com 119.29.29.29
 papapoi.com 119.29.29.29
@@ -49598,6 +49597,7 @@ t20000.com 119.29.29.29
 t262.com 119.29.29.29
 t2cn.com 119.29.29.29
 t3315.com 119.29.29.29
+t4lover.com 119.29.29.29
 t5.work 119.29.29.29
 t56.net 119.29.29.29
 t56jy.net 119.29.29.29
@@ -53304,6 +53304,7 @@ vpnsoft.net 119.29.29.29
 vpquc9rn.com 119.29.29.29
 vps.im 119.29.29.29
 vps.sh 119.29.29.29
+vps123.cc 119.29.29.29
 vps234.com 119.29.29.29
 vpsaa.com 119.29.29.29
 vpsaa.net 119.29.29.29
@@ -55710,7 +55711,6 @@ wtapi.com 119.29.29.29
 wtbds.com 119.29.29.29
 wtcxs.com 119.29.29.29
 wtdex.com 119.29.29.29
-wtdlq.com 119.29.29.29
 wtdms.com 119.29.29.29
 wting.info 119.29.29.29
 wtmmn.com 119.29.29.29
@@ -57605,7 +57605,6 @@ xiuhome.com 119.29.29.29
 xiuimg.com 119.29.29.29
 xiujiadian.com 119.29.29.29
 xiulian.com 119.29.29.29
-xiulishanzhuang.com 119.29.29.29
 xiuluowang.com 119.29.29.29
 xiulv.com 119.29.29.29
 xiumb.com 119.29.29.29
@@ -58544,6 +58543,7 @@ xyfcw.com 119.29.29.29
 xyffsb.com 119.29.29.29
 xyfw.org 119.29.29.29
 xygmed.com 119.29.29.29
+xyh001.com 119.29.29.29
 xyhc.com 119.29.29.29
 xyhis.com 119.29.29.29
 xyhlcd.com 119.29.29.29
