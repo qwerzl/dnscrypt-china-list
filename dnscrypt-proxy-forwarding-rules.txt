@@ -9651,6 +9651,7 @@ bangcle.com 119.29.29.29
 bangdao-tech.com 119.29.29.29
 banggo.com 119.29.29.29
 banghaiwai.com 119.29.29.29
+bangjixia.com 119.29.29.29
 bangkao.com 119.29.29.29
 bangkebao.com 119.29.29.29
 banglianai.com 119.29.29.29
@@ -13115,6 +13116,7 @@ ch999img.com 119.29.29.29
 cha-tm.com 119.29.29.29
 cha001.com 119.29.29.29
 cha127.com 119.29.29.29
+cha138.com 119.29.29.29
 chabeichong.com 119.29.29.29
 chachaba.com 119.29.29.29
 chachaqu.com 119.29.29.29
@@ -16331,6 +16333,7 @@ csharpkit.com 119.29.29.29
 cshixi.com 119.29.29.29
 cshnkj.com 119.29.29.29
 cshope.net 119.29.29.29
+cshuandu.com 119.29.29.29
 cshufanyi.com 119.29.29.29
 cshxdc.com 119.29.29.29
 cshyqx.com 119.29.29.29
@@ -17295,7 +17298,6 @@ dawndiy.com 119.29.29.29
 dawnlab.me 119.29.29.29
 dawnled.net 119.29.29.29
 dawuhanapp.com 119.29.29.29
-dawuxia.net 119.29.29.29
 dawx.com 119.29.29.29
 dawx.net 119.29.29.29
 daxi.com 119.29.29.29
@@ -22635,6 +22637,7 @@ ganso.net 119.29.29.29
 gansuairport.com 119.29.29.29
 gansunet.com 119.29.29.29
 gansuyunshi.com 119.29.29.29
+gantanhao.vip 119.29.29.29
 ganxi666.com 119.29.29.29
 ganxianw.com 119.29.29.29
 ganxianzhi.win 119.29.29.29
@@ -28153,7 +28156,6 @@ hzwmw.com 119.29.29.29
 hzwsjyjt.com 119.29.29.29
 hzwtech.com 119.29.29.29
 hzwxq.com 119.29.29.29
-hzwyh.com 119.29.29.29
 hzxhymc.com 119.29.29.29
 hzxiaobao.com 119.29.29.29
 hzxiyuege.com 119.29.29.29
@@ -38739,9 +38741,7 @@ mrpyq.com 119.29.29.29
 mrqf.com 119.29.29.29
 mrsta.com 119.29.29.29
 mrsu.me 119.29.29.29
-mrtbc.com 119.29.29.29
 mrw.so 119.29.29.29
-mrwfbk.bar 119.29.29.29
 mrwish.net 119.29.29.29
 mrzhenggang.com 119.29.29.29
 mrzl.com 119.29.29.29
@@ -42627,6 +42627,7 @@ pythonclub.org 119.29.29.29
 pythondoc.com 119.29.29.29
 pythoner.com 119.29.29.29
 pythonheidong.com 119.29.29.29
+pythonke.com 119.29.29.29
 pythonpub.com 119.29.29.29
 pythontab.com 119.29.29.29
 pythontip.com 119.29.29.29
@@ -43206,6 +43207,7 @@ qimingpian.com 119.29.29.29
 qimingvc.com 119.29.29.29
 qimingventures.com 119.29.29.29
 qimingzi.net 119.29.29.29
+qiminzi.com 119.29.29.29
 qimo.biz 119.29.29.29
 qimodesign.com 119.29.29.29
 qimser.com 119.29.29.29
@@ -46189,7 +46191,6 @@ shangcaifanyi.com 119.29.29.29
 shangdandan.com 119.29.29.29
 shangdaotong.com 119.29.29.29
 shangdiguo.com 119.29.29.29
-shangdingxin.com 119.29.29.29
 shangdixinxi.com 119.29.29.29
 shangdu.com 119.29.29.29
 shangdu.info 119.29.29.29
@@ -47569,7 +47570,6 @@ sjhgo.com 119.29.29.29
 sjhl.cc 119.29.29.29
 sjhy.net 119.29.29.29
 sjjob88.com 119.29.29.29
-sjkhsl.fun 119.29.29.29
 sjlqgg.com 119.29.29.29
 sjm.life 119.29.29.29
 sjmdh.com 119.29.29.29
@@ -52178,6 +52178,7 @@ uclmimg.com 119.29.29.29
 uclmjs.com 119.29.29.29
 ucloudgda.com 119.29.29.29
 ucloudnaming.info 119.29.29.29
+uclouds3.com 119.29.29.29
 ucly.net 119.29.29.29
 ucnaming.com 119.29.29.29
 ucnano.com 119.29.29.29
@@ -54277,6 +54278,7 @@ weishu.me 119.29.29.29
 weisiliang.com 119.29.29.29
 weismarts.com 119.29.29.29
 weistang.com 119.29.29.29
+weisurvey.com 119.29.29.29
 weisuyun.com 119.29.29.29
 weitehui.com 119.29.29.29
 weitiaozhuan.com 119.29.29.29
@@ -58562,6 +58564,7 @@ xylmf.com 119.29.29.29
 xymcp3.com 119.29.29.29
 xymens.com 119.29.29.29
 xymfqb.com 119.29.29.29
+xymlcs.com 119.29.29.29
 xymvip.com 119.29.29.29
 xynbnb.com 119.29.29.29
 xyniubi.com 119.29.29.29
