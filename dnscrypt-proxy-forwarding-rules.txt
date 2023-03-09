@@ -5821,6 +5821,7 @@
 81677.com 119.29.29.29
 8169.com 119.29.29.29
 817398.com 119.29.29.29
+8175835ccc.com 119.29.29.29
 81761.com 119.29.29.29
 817711.com 119.29.29.29
 818.com 119.29.29.29
@@ -12756,6 +12757,7 @@ cdnhwckfz116.com 119.29.29.29
 cdnhwcprh113.com 119.29.29.29
 cdnhwctnm107.com 119.29.29.29
 cdnidc.net 119.29.29.29
+cdnjson.com 119.29.29.29
 cdnjtzy.com 119.29.29.29
 cdnle.com 119.29.29.29
 cdnle.net 119.29.29.29
@@ -14498,6 +14500,7 @@ chunhui12.com 119.29.29.29
 chunjingtech.com 119.29.29.29
 chunjiws.com 119.29.29.29
 chunmi.com 119.29.29.29
+chunmiaosh.com 119.29.29.29
 chunqiuwang.com 119.29.29.29
 chunquff.com 119.29.29.29
 chunshuitang.com 119.29.29.29
@@ -19728,6 +19731,7 @@ ecocn.org 119.29.29.29
 ecombdapi.com 119.29.29.29
 ecombdimg.com 119.29.29.29
 ecombdstatic.com 119.29.29.29
+ecombdvod.com 119.29.29.29
 ecomoter.com 119.29.29.29
 ecool.site 119.29.29.29
 ecoplastech.com 119.29.29.29
@@ -31290,6 +31294,7 @@ jinrongwang.net 119.29.29.29
 jinrui-tech.com 119.29.29.29
 jins-cn.com 119.29.29.29
 jinsdk.com 119.29.29.29
+jinse.com 119.29.29.29
 jinsebook.com 119.29.29.29
 jinsedihao.com 119.29.29.29
 jinsehuaqin.com 119.29.29.29
@@ -39985,6 +39990,7 @@ njgjj.com 119.29.29.29
 njhaiwai.com 119.29.29.29
 njhengyou.com 119.29.29.29
 njhgame.com 119.29.29.29
+njhgzg.com 119.29.29.29
 njhszoo.com 119.29.29.29
 njibhu.com 119.29.29.29
 njjn.com 119.29.29.29
