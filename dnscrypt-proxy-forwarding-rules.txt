@@ -8550,7 +8550,6 @@ aoapp.com 119.29.29.29
 aobacore.com 119.29.29.29
 aobaishi.com 119.29.29.29
 aobosoft.com 119.29.29.29
-aoc.com 119.29.29.29
 aocde.com 119.29.29.29
 aocdn.com 119.29.29.29
 aoch.com 119.29.29.29
@@ -32238,7 +32237,6 @@ julyedu.com 119.29.29.29
 julysong.com 119.29.29.29
 jumanhua.com 119.29.29.29
 jumei.com 119.29.29.29
-jumeiglobal.com 119.29.29.29
 jumeinet.com 119.29.29.29
 jumengren.com 119.29.29.29
 jumi-cdn.com 119.29.29.29
@@ -40246,6 +40244,7 @@ ntjob88.com 119.29.29.29
 ntjoy.com 119.29.29.29
 ntjrchina.com 119.29.29.29
 ntjymall.com 119.29.29.29
+ntlcjd.com 119.29.29.29
 ntneuro.org 119.29.29.29
 ntp.felixc.at 119.29.29.29
 ntpcb.com 119.29.29.29
@@ -43778,6 +43777,7 @@ qtumist.com 119.29.29.29
 qtvcd.com 119.29.29.29
 qtx.com 119.29.29.29
 qtyd.com 119.29.29.29
+qtymyy.com 119.29.29.29
 qu.la 119.29.29.29
 qu02.com 119.29.29.29
 qu247.com 119.29.29.29
