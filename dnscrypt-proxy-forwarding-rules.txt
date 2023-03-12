@@ -7550,7 +7550,6 @@ ahuano.com 119.29.29.29
 ahudows.com 119.29.29.29
 ahugeship.com 119.29.29.29
 ahuyi.com 119.29.29.29
-ahwkdz.com 119.29.29.29
 ahwwnews.com 119.29.29.29
 ahwxcs.com 119.29.29.29
 ahxwkj.com 119.29.29.29
@@ -7843,6 +7842,7 @@ aiuxian.com 119.29.29.29
 aiuxstudio.com 119.29.29.29
 aiviy.com 119.29.29.29
 aiviysoft.com 119.29.29.29
+aivote.com 119.29.29.29
 aiwall.com 119.29.29.29
 aiwan4399.com 119.29.29.29
 aiwan91.com 119.29.29.29
@@ -16727,6 +16727,7 @@ cytstibet.com 119.29.29.29
 cyudun.net 119.29.29.29
 cyuew.com 119.29.29.29
 cywetc.com 119.29.29.29
+cywyjj.com 119.29.29.29
 cyy18.com 119.29.29.29
 cyypscl.com 119.29.29.29
 cyyself.name 119.29.29.29
@@ -26846,7 +26847,6 @@ houzhibo.com 119.29.29.29
 hoverlees.com 119.29.29.29
 hovertree.com 119.29.29.29
 hovfree.com 119.29.29.29
-how234.com 119.29.29.29
 howardwchen.com 119.29.29.29
 howbuy.com 119.29.29.29
 howelllighting.com 119.29.29.29
@@ -28509,6 +28509,7 @@ icsisia.com 119.29.29.29
 icslx.com 119.29.29.29
 icsoc.net 119.29.29.29
 icson.com 119.29.29.29
+icspec.com 119.29.29.29
 icss.me 119.29.29.29
 icstreet.com 119.29.29.29
 icswb.com 119.29.29.29
@@ -37236,6 +37237,7 @@ mcbeam.pro 119.29.29.29
 mcchcdn.com 119.29.29.29
 mcchina.com 119.29.29.29
 mcchou.com 119.29.29.29
+mcd.blue 119.29.29.29
 mcd.cc 119.29.29.29
 mcdchina.net 119.29.29.29
 mcdsusan.com 119.29.29.29
@@ -37774,7 +37776,6 @@ miaoshuzhai.net 119.29.29.29
 miaostreet.com 119.29.29.29
 miaov.com 119.29.29.29
 miaoweijianfei.com 119.29.29.29
-miaowugo.com 119.29.29.29
 miaowutech.com 119.29.29.29
 miaoxiazai.com 119.29.29.29
 miaozao.com 119.29.29.29
@@ -38569,7 +38570,6 @@ morewis.com 119.29.29.29
 morewiscloud.com 119.29.29.29
 morigames.com 119.29.29.29
 morihei.net 119.29.29.29
-moring.pw 119.29.29.29
 morketing.com 119.29.29.29
 morning.work 119.29.29.29
 morningcore.com 119.29.29.29
@@ -42321,7 +42321,6 @@ ppxclub.com 119.29.29.29
 ppxs.net 119.29.29.29
 ppxvod.com 119.29.29.29
 ppxwo.com 119.29.29.29
-ppxzy.co 119.29.29.29
 ppys.net 119.29.29.29
 ppzhan.com 119.29.29.29
 ppzhilian.com 119.29.29.29
@@ -48812,7 +48811,6 @@ suning.com 119.29.29.29
 suningcloud.com 119.29.29.29
 suningestate.com 119.29.29.29
 suningholdings.com 119.29.29.29
-sunjidong.net 119.29.29.29
 sunjiwen.com 119.29.29.29
 sunjs.com 119.29.29.29
 sunland.cc 119.29.29.29
@@ -51824,7 +51822,6 @@ twcad.com 119.29.29.29
 twcczhu.com 119.29.29.29
 twd2.me 119.29.29.29
 twd2.net 119.29.29.29
-tweakboxapp.com 119.29.29.29
 tweakcube.com 119.29.29.29
 twguozao.com 119.29.29.29
 twh5.com 119.29.29.29
@@ -55270,7 +55267,6 @@ woaidu.org 119.29.29.29
 woaifanyi.com 119.29.29.29
 woaihaoyouxi.com 119.29.29.29
 woaihuahua.com 119.29.29.29
-woaipj.com 119.29.29.29
 woaipu.com 119.29.29.29
 woair.com 119.29.29.29
 woaishouban.com 119.29.29.29
@@ -57916,7 +57912,6 @@ xoao.com 119.29.29.29
 xoliao.com 119.29.29.29
 xooooa.com 119.29.29.29
 xorpay.com 119.29.29.29
-xoveskincare.com 119.29.29.29
 xox8688.com 119.29.29.29
 xox8995.com 119.29.29.29
 xox9325.com 119.29.29.29
