@@ -6874,7 +6874,6 @@
 99weiqi.com 119.29.29.29
 99wuxian.com 119.29.29.29
 99xr.com 119.29.29.29
-99xxg.com 119.29.29.29
 99xyx.com 119.29.29.29
 99yoo.com 119.29.29.29
 99youmeng.com 119.29.29.29
@@ -7782,6 +7781,7 @@ airchinajet.com 119.29.29.29
 airchinamedia.com 119.29.29.29
 aircn.org 119.29.29.29
 aircourses.com 119.29.29.29
+airdoc.com 119.29.29.29
 airdropin.com 119.29.29.29
 airen1314.com 119.29.29.29
 airj.website 119.29.29.29
@@ -10369,6 +10369,7 @@ bgsdk.net 119.29.29.29
 bgsdyz.com 119.29.29.29
 bgteach.com 119.29.29.29
 bguai.com 119.29.29.29
+bgwcsz.com 119.29.29.29
 bgwl.net 119.29.29.29
 bgyfhyx.com 119.29.29.29
 bh.sb 119.29.29.29
@@ -13853,6 +13854,7 @@ chinagdg.com 119.29.29.29
 chinagiftsfair.com 119.29.29.29
 chinagoldcoin.net 119.29.29.29
 chinagoldgroup.com 119.29.29.29
+chinagongcheng.com 119.29.29.29
 chinagov.pw 119.29.29.29
 chinagp.net 119.29.29.29
 chinagps.cc 119.29.29.29
@@ -27705,6 +27707,7 @@ huodonghui.net 119.29.29.29
 huodongjia.com 119.29.29.29
 huodongju.com 119.29.29.29
 huodongju.net 119.29.29.29
+huodongpro.com 119.29.29.29
 huodongquan.net 119.29.29.29
 huodongshu.com 119.29.29.29
 huodongwang.com 119.29.29.29
@@ -29780,6 +29783,7 @@ ismartware.com 119.29.29.29
 ismdeep.com 119.29.29.29
 isme.pub 119.29.29.29
 isming.me 119.29.29.29
+ismx8.com 119.29.29.29
 iso-est.com 119.29.29.29
 iso-iso9000.com 119.29.29.29
 isobar.tech 119.29.29.29
@@ -34320,6 +34324,7 @@ lanting123.com 119.29.29.29
 lantinglou.com 119.29.29.29
 lanuss.com 119.29.29.29
 lanvige.com 119.29.29.29
+lanwoncloudfilm.com 119.29.29.29
 lanxicy.com 119.29.29.29
 lanxinbase.com 119.29.29.29
 lanxiniu.com 119.29.29.29
@@ -40906,7 +40911,6 @@ orvibo.com 119.29.29.29
 orz.asia 119.29.29.29
 orz123.com 119.29.29.29
 orz520.com 119.29.29.29
-orzice.com 119.29.29.29
 orzjoy.com 119.29.29.29
 os-easy.com 119.29.29.29
 os-v.com 119.29.29.29
@@ -51820,6 +51824,7 @@ twcad.com 119.29.29.29
 twcczhu.com 119.29.29.29
 twd2.me 119.29.29.29
 twd2.net 119.29.29.29
+tweakboxapp.com 119.29.29.29
 tweakcube.com 119.29.29.29
 twguozao.com 119.29.29.29
 twh5.com 119.29.29.29
@@ -57962,7 +57967,6 @@ xqras.asia 119.29.29.29
 xqsbw.com 119.29.29.29
 xqship.com 119.29.29.29
 xqtesting.com 119.29.29.29
-xqwggg.com 119.29.29.29
 xqwww.com 119.29.29.29
 xqyk024.com 119.29.29.29
 xrcch.com 119.29.29.29
