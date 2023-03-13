@@ -14659,7 +14659,6 @@ citicnetworks.com 119.29.29.29
 citics.com 119.29.29.29
 citicsf.com 119.29.29.29
 citicsinfo.com 119.29.29.29
-citicsqh.com 119.29.29.29
 citicsteel.com 119.29.29.29
 citidigital.com 119.29.29.29
 citisa.org 119.29.29.29
@@ -16684,7 +16683,6 @@ cycnet.com 119.29.29.29
 cycoi.com 119.29.29.29
 cycoo.com 119.29.29.29
 cydiakk.com 119.29.29.29
-cydiami.com 119.29.29.29
 cydow.com 119.29.29.29
 cydp5.com 119.29.29.29
 cyedu.org 119.29.29.29
@@ -32131,7 +32129,6 @@ jszks.net 119.29.29.29
 jszygs.com 119.29.29.29
 jt-yun.com 119.29.29.29
 jt62.com 119.29.29.29
-jt996.com 119.29.29.29
 jtamc.com 119.29.29.29
 jtbole.com 119.29.29.29
 jtbtech.com 119.29.29.29
@@ -43439,7 +43436,6 @@ qiyujiasu.com 119.29.29.29
 qiyukf.com 119.29.29.29
 qiyukf.net 119.29.29.29
 qiyukid.com 119.29.29.29
-qiyunbook.com 119.29.29.29
 qiyuntong.com 119.29.29.29
 qiyunworld.com 119.29.29.29
 qiyutianxia.com 119.29.29.29
@@ -46914,7 +46910,6 @@ shtxcj.com 119.29.29.29
 shu-ju.net 119.29.29.29
 shu163.com 119.29.29.29
 shuabuapp.com 119.29.29.29
-shuadanfu.com 119.29.29.29
 shuaibo.wang 119.29.29.29
 shuaigeshe.com 119.29.29.29
 shuaihuajun.com 119.29.29.29
@@ -46978,7 +46973,6 @@ shuhaitz.com 119.29.29.29
 shuhegroup.com 119.29.29.29
 shuhua66.com 119.29.29.29
 shuhuangla.com 119.29.29.29
-shui-mai.com 119.29.29.29
 shui.moe 119.29.29.29
 shui12366.com 119.29.29.29
 shui2014.com 119.29.29.29
@@ -52072,7 +52066,6 @@ ubja.vip 119.29.29.29
 ublese.com 119.29.29.29
 ubmconlinereg.com 119.29.29.29
 uboat100.com 119.29.29.29
-ubooo.com 119.29.29.29
 uboxol.com 119.29.29.29
 uboxsale.com 119.29.29.29
 ubs001.com 119.29.29.29
@@ -55930,7 +55923,6 @@ www.viveport.com 119.29.29.29
 www.volvocars.com 119.29.29.29
 www1.djicdn.com 119.29.29.29
 www2.djicdn.com 119.29.29.29
-www2011india.com 119.29.29.29
 www3.djicdn.com 119.29.29.29
 www37430.com 119.29.29.29
 www4.djicdn.com 119.29.29.29
@@ -59768,7 +59760,6 @@ yiyuansoft.com 119.29.29.29
 yiyuantian.com 119.29.29.29
 yiyuanyi.org 119.29.29.29
 yiyuetop.com 119.29.29.29
-yiyult.com 119.29.29.29
 yiyum.com 119.29.29.29
 yiyurumen.com 119.29.29.29
 yizaoyiwan.com 119.29.29.29
@@ -61848,6 +61839,7 @@ zgglkx.com 119.29.29.29
 zgglyun.com 119.29.29.29
 zggonglue.com 119.29.29.29
 zggqzp.com 119.29.29.29
+zggua.com 119.29.29.29
 zggx.net 119.29.29.29
 zggys.com 119.29.29.29
 zghde.com 119.29.29.29
