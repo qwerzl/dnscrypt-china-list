@@ -545,7 +545,6 @@
 0852job.com 119.29.29.29
 0853rc.com 119.29.29.29
 0854job.com 119.29.29.29
-0855job.com 119.29.29.29
 0856job.com 119.29.29.29
 0857job.com 119.29.29.29
 0859job.com 119.29.29.29
@@ -1018,8 +1017,6 @@
 123aoe.com 119.29.29.29
 123baofeng.com 119.29.29.29
 123bo.com 119.29.29.29
-123buyu.com 119.29.29.29
-123buyu.net 119.29.29.29
 123cha.com 119.29.29.29
 123ds.org 119.29.29.29
 123du.cc 119.29.29.29
@@ -2866,7 +2863,6 @@
 365htk.com 119.29.29.29
 365huaer.com 119.29.29.29
 365huifu.com 119.29.29.29
-365huo.com 119.29.29.29
 365ibank.com 119.29.29.29
 365icl.com 119.29.29.29
 365ime.com 119.29.29.29
@@ -3180,7 +3176,6 @@
 3s001.com 119.29.29.29
 3s3w.com 119.29.29.29
 3s78.com 119.29.29.29
-3sbase.com 119.29.29.29
 3scard.com 119.29.29.29
 3shuwu.com 119.29.29.29
 3snews.net 119.29.29.29
@@ -8438,7 +8433,6 @@ anquanbao.com 119.29.29.29
 anquanke.com 119.29.29.29
 anquanquan.info 119.29.29.29
 anquantong.com 119.29.29.29
-anquanxia.com 119.29.29.29
 anrayer.com 119.29.29.29
 anren.org 119.29.29.29
 anrenmind.com 119.29.29.29
@@ -13407,7 +13401,6 @@ chenguangblog.com 119.29.29.29
 chengxiangqian.com 119.29.29.29
 chengxinyouxuan.com 119.29.29.29
 chengxuan.com 119.29.29.29
-chengyangnews.com 119.29.29.29
 chengyangyang.com 119.29.29.29
 chengye-capital.com 119.29.29.29
 chengyucd.com 119.29.29.29
@@ -15831,7 +15824,6 @@ coofans.com 119.29.29.29
 cooffee.net 119.29.29.29
 cooh5.com 119.29.29.29
 coohua.com 119.29.29.29
-cookbookchina.com 119.29.29.29
 cookcai.com 119.29.29.29
 cookie4you.com 119.29.29.29
 cool-admin.com 119.29.29.29
@@ -17779,7 +17771,6 @@ dgjxmk.com 119.29.29.29
 dgjyw.com 119.29.29.29
 dglpool.com 119.29.29.29
 dgmama.net 119.29.29.29
-dgmmbb.com 119.29.29.29
 dgn.cc 119.29.29.29
 dgod.net 119.29.29.29
 dgptjob.com 119.29.29.29
@@ -29038,7 +29029,6 @@ ilewan.com 119.29.29.29
 iliangcang.com 119.29.29.29
 ilibrand.com 119.29.29.29
 ilidubj.net 119.29.29.29
-ilife69.com 119.29.29.29
 ilifesmart.com 119.29.29.29
 ilinekesy.com 119.29.29.29
 ilingdai.com 119.29.29.29
@@ -35946,7 +35936,6 @@ longsto.com 119.29.29.29
 longsunhenges.com 119.29.29.29
 longsys.com 119.29.29.29
 longtaifoods.com 119.29.29.29
-longtaitouxiaoshuo.com 119.29.29.29
 longtaiwj.com 119.29.29.29
 longtanshuw.net 119.29.29.29
 longtask.com 119.29.29.29
@@ -38739,6 +38728,7 @@ mszxyh.com 119.29.29.29
 mt-bbs.com 119.29.29.29
 mt-wire.com 119.29.29.29
 mt77.com 119.29.29.29
+mt888vip.com 119.29.29.29
 mtasia.net 119.29.29.29
 mtavip.com 119.29.29.29
 mtblj.com 119.29.29.29
@@ -39758,7 +39748,6 @@ nhdmd.com 119.29.29.29
 nhganggeban.com 119.29.29.29
 nhhwhxh.com 119.29.29.29
 nhnexpo.com 119.29.29.29
-nhnsc.com 119.29.29.29
 nhnst.com 119.29.29.29
 nhooo.com 119.29.29.29
 nhstu.com 119.29.29.29
@@ -41478,7 +41467,6 @@ pdf100.net 119.29.29.29
 pdf1122.com 119.29.29.29
 pdf5.net 119.29.29.29
 pdfbianji.com 119.29.29.29
-pdfdo.com 119.29.29.29
 pdfdowell.com 119.29.29.29
 pdfexpert.cc 119.29.29.29
 pdffsy.com 119.29.29.29
@@ -45306,7 +45294,6 @@ sanjun.com 119.29.29.29
 sankaijian.com 119.29.29.29
 sankgo.com 119.29.29.29
 sankougift.com 119.29.29.29
-sankoup1.com 119.29.29.29
 sankuai.com 119.29.29.29
 sanlan123.com 119.29.29.29
 sanliu2021.com 119.29.29.29
@@ -45813,7 +45800,6 @@ seekchem.com 119.29.29.29
 seekfunbook.com 119.29.29.29
 seekhill.com 119.29.29.29
 seekonly.net 119.29.29.29
-seekplay.online 119.29.29.29
 seelvyou.com 119.29.29.29
 seemmo.com 119.29.29.29
 seemoread.com 119.29.29.29
@@ -57271,7 +57257,6 @@ xingyuyouxi.com 119.29.29.29
 xingzhang.com 119.29.29.29
 xingzhige.com 119.29.29.29
 xingzhilan.com 119.29.29.29
-xingzhilian.net 119.29.29.29
 xingzhiyue.com 119.29.29.29
 xingzuo.com 119.29.29.29
 xingzuo8090.com 119.29.29.29
@@ -57486,7 +57471,6 @@ xitmi.com 119.29.29.29
 xitong-tech.com 119.29.29.29
 xitong110.com 119.29.29.29
 xitong520.com 119.29.29.29
-xitong8.com 119.29.29.29
 xitongbuluo.com 119.29.29.29
 xitongcheng.com 119.29.29.29
 xitongdaquan.net 119.29.29.29
