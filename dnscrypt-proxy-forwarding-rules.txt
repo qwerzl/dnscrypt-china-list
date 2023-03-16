@@ -1506,7 +1506,6 @@
 17m3.com 119.29.29.29
 17meiwen.com 119.29.29.29
 17mf.com 119.29.29.29
-17miyou.com 119.29.29.29
 17mqw.com 119.29.29.29
 17ms.com 119.29.29.29
 17neo.com 119.29.29.29
@@ -3079,7 +3078,6 @@
 3ddl.net 119.29.29.29
 3ddl.org 119.29.29.29
 3deazer.com 119.29.29.29
-3dfrom.com 119.29.29.29
 3dgenomics.org 119.29.29.29
 3dhao.com 119.29.29.29
 3dhat.com 119.29.29.29
@@ -3355,7 +3353,6 @@
 4493.com 119.29.29.29
 44971.com 119.29.29.29
 44dt.com 119.29.29.29
-44england.com 119.29.29.29
 44vs.com 119.29.29.29
 453600.net 119.29.29.29
 45575.com 119.29.29.29
@@ -5902,7 +5899,6 @@
 8555220.com 119.29.29.29
 8558.org 119.29.29.29
 85679999.com 119.29.29.29
-857yzf.com 119.29.29.29
 8587.se 119.29.29.29
 85878078.com 119.29.29.29
 858game.com 119.29.29.29
@@ -9955,7 +9951,6 @@ bcbm66666.com 119.29.29.29
 bcbm688.com 119.29.29.29
 bcbpm.com 119.29.29.29
 bcbvi.com 119.29.29.29
-bccfw.com 119.29.29.29
 bccn.net 119.29.29.29
 bccnsoft.com 119.29.29.29
 bccv.com 119.29.29.29
@@ -11527,7 +11522,6 @@ bshare.com 119.29.29.29
 bsida.com 119.29.29.29
 bsidu.com 119.29.29.29
 bsjhhzs.com 119.29.29.29
-bsjquanwu.com 119.29.29.29
 bskrt.com 119.29.29.29
 bskuav.com 119.29.29.29
 bsmz.net 119.29.29.29
@@ -12547,7 +12541,6 @@ cctime.com 119.29.29.29
 cction.com 119.29.29.29
 cctlife.com 119.29.29.29
 cctocloud.com 119.29.29.29
-cctongwen.com 119.29.29.29
 cctpress.com 119.29.29.29
 cctry.com 119.29.29.29
 cctv-19.com 119.29.29.29
@@ -14205,7 +14198,6 @@ chinca.org 119.29.29.29
 chindiaforum.com 119.29.29.29
 chine-info.com 119.29.29.29
 chinee.com 119.29.29.29
-chinese-luxury.com 119.29.29.29
 chinese-no1.com 119.29.29.29
 chineseacc.com 119.29.29.29
 chineseafs.org 119.29.29.29
@@ -15744,7 +15736,6 @@ colourlife.com 119.29.29.29
 com-rail.com 119.29.29.29
 com.fi 119.29.29.29
 com.tv 119.29.29.29
-com21.com 119.29.29.29
 com4loves.com 119.29.29.29
 comac.cc 119.29.29.29
 comake.online 119.29.29.29
@@ -15810,7 +15801,6 @@ controlinai.com 119.29.29.29
 conuo.com 119.29.29.29
 convergemob.com 119.29.29.29
 convertlab.com 119.29.29.29
-conwos.com 119.29.29.29
 conyedit.com 119.29.29.29
 coobar.com 119.29.29.29
 cooboys.com 119.29.29.29
@@ -16930,7 +16920,6 @@ daicuo.net 119.29.29.29
 daicuo.vip 119.29.29.29
 daicuo.wang 119.29.29.29
 daidaidui.club 119.29.29.29
-daidaitong.com 119.29.29.29
 daidaitv.com 119.29.29.29
 daidongxi.com 119.29.29.29
 daigou.com 119.29.29.29
@@ -18514,7 +18503,6 @@ doitim.com 119.29.29.29
 doiua.com 119.29.29.29
 doki8.com 119.29.29.29
 doklam.wang 119.29.29.29
-dolanzz.com 119.29.29.29
 dolcn.com 119.29.29.29
 dole.club 119.29.29.29
 dolfincdnx.com 119.29.29.29
@@ -19474,7 +19462,6 @@ eachnet.com 119.29.29.29
 eachsee.com 119.29.29.29
 eaeb.com 119.29.29.29
 eafifaonline2.com 119.29.29.29
-eaglexiang.org 119.29.29.29
 eahui.com 119.29.29.29
 eaibot.com 119.29.29.29
 eaka365.com 119.29.29.29
@@ -22996,7 +22983,6 @@ genetalks.com 119.29.29.29
 geneworldcn.com 119.29.29.29
 gengchuangz.com 119.29.29.29
 gengnie.com 119.29.29.29
-gengwen.net 119.29.29.29
 geniatech.com 119.29.29.29
 geniusite.com 119.29.29.29
 genrace.com 119.29.29.29
@@ -24402,7 +24388,6 @@ gz-data.com 119.29.29.29
 gz-gz.com 119.29.29.29
 gz-lodihair.com 119.29.29.29
 gz-notary.com 119.29.29.29
-gz-richip.com 119.29.29.29
 gz-station.com 119.29.29.29
 gz-tylx.com 119.29.29.29
 gz007.net 119.29.29.29
@@ -25309,6 +25294,7 @@ hb30.com 119.29.29.29
 hb3rm.com 119.29.29.29
 hb500.com 119.29.29.29
 hb6.org 119.29.29.29
+hb96369.com 119.29.29.29
 hb96568.com 119.29.29.29
 hbadei.com 119.29.29.29
 hbanbao.com 119.29.29.29
@@ -26171,6 +26157,7 @@ hindlish.com 119.29.29.29
 hinew8.com 119.29.29.29
 hinpy.com 119.29.29.29
 hiopensource.com 119.29.29.29
+hiosu.com 119.29.29.29
 hioug.com 119.29.29.29
 hiparking.com 119.29.29.29
 hipcam.net 119.29.29.29
@@ -27704,7 +27691,6 @@ huohuo.com 119.29.29.29
 huohuolife.com 119.29.29.29
 huoji.com 119.29.29.29
 huoju365.com 119.29.29.29
-huojuli.com 119.29.29.29
 huokebao.net 119.29.29.29
 huokesoft.com 119.29.29.29
 huolala.co 119.29.29.29
@@ -28507,7 +28493,6 @@ icvip.com 119.29.29.29
 icxbk.com 119.29.29.29
 icxinli.com 119.29.29.29
 icy-capital.com 119.29.29.29
-icyip.com 119.29.29.29
 iczhiku.com 119.29.29.29
 iczoom.com 119.29.29.29
 id-bear.com 119.29.29.29
@@ -31162,7 +31147,6 @@ jingua168.com 119.29.29.29
 jingujie.com 119.29.29.29
 jingutrust.com 119.29.29.29
 jingwacenter.com 119.29.29.29
-jingwei.com 119.29.29.29
 jingwei.link 119.29.29.29
 jingwuhui.com 119.29.29.29
 jingwxcx.com 119.29.29.29
@@ -31629,7 +31613,6 @@ jllihua.com 119.29.29.29
 jlmhw.com 119.29.29.29
 jlonline.com 119.29.29.29
 jlpay.com 119.29.29.29
-jlpmc.com 119.29.29.29
 jlpzj.net 119.29.29.29
 jlq.com 119.29.29.29
 jlr360.com 119.29.29.29
@@ -38203,7 +38186,6 @@ mm111.net 119.29.29.29
 mm131.kim 119.29.29.29
 mm138.com 119.29.29.29
 mm2hservices.com 119.29.29.29
-mm2uu.com 119.29.29.29
 mm52.com 119.29.29.29
 mm52.net 119.29.29.29
 mm8mm8.com 119.29.29.29
@@ -40039,7 +40021,6 @@ nntlj.com 119.29.29.29
 nntskq.com 119.29.29.29
 nntxw.com 119.29.29.29
 nnwb.com 119.29.29.29
-nnweding.com 119.29.29.29
 nnynrc.com 119.29.29.29
 nnzsxblaw.com 119.29.29.29
 noahedu.com 119.29.29.29
@@ -44385,6 +44366,7 @@ redcome.com 119.29.29.29
 redcross-hx.com 119.29.29.29
 redcross-sha.org 119.29.29.29
 redefine.ltd 119.29.29.29
+redelegation.net 119.29.29.29
 redflag-linux.com 119.29.29.29
 redhome.cc 119.29.29.29
 redhongan.com 119.29.29.29
@@ -46206,7 +46188,6 @@ shanmao.me 119.29.29.29
 shannon-sys.com 119.29.29.29
 shannonai.com 119.29.29.29
 shanp.com 119.29.29.29
-shanqb.com 119.29.29.29
 shanqu.cc 119.29.29.29
 shanrongmall.com 119.29.29.29
 shanse8.com 119.29.29.29
@@ -51816,6 +51797,7 @@ tx009.com 119.29.29.29
 tx163.com 119.29.29.29
 tx29.com 119.29.29.29
 tx5d.com 119.29.29.29
+tx9968.com 119.29.29.29
 txbapp.com 119.29.29.29
 txbimg.com 119.29.29.29
 txcbwgg.com 119.29.29.29
@@ -53708,6 +53690,7 @@ wannengxiaoge.com 119.29.29.29
 wannengzj.com 119.29.29.29
 wannianli.mobi 119.29.29.29
 wannianli.net 119.29.29.29
+wannianli2.com 119.29.29.29
 wannianli8.com 119.29.29.29
 wannuoda.com 119.29.29.29
 wanqianyun.com 119.29.29.29
@@ -56358,7 +56341,6 @@ xdrenwu.com 119.29.29.29
 xdressy.com 119.29.29.29
 xdrig.com 119.29.29.29
 xdrtc.com 119.29.29.29
-xds04.com 119.29.29.29
 xdsipo.com 119.29.29.29
 xdtos.com 119.29.29.29
 xduoo.com 119.29.29.29
@@ -56384,7 +56366,6 @@ xelz.info 119.29.29.29
 xen0n.name 119.29.29.29
 xender.com 119.29.29.29
 xenium.mobi 119.29.29.29
-xenvpser.com 119.29.29.29
 xerlang.com 119.29.29.29
 xesapp.com 119.29.29.29
 xescdn.com 119.29.29.29
@@ -56901,6 +56882,7 @@ xiaotiancai.com 119.29.29.29
 xiaotut.com 119.29.29.29
 xiaotuzhan.com 119.29.29.29
 xiaou2014.com 119.29.29.29
+xiaoupan.com 119.29.29.29
 xiaoushuo.com 119.29.29.29
 xiaowang.net 119.29.29.29
 xiaowangshen.com 119.29.29.29
@@ -57035,7 +57017,6 @@ xiechuangw.com 119.29.29.29
 xiecuo.com 119.29.29.29
 xiedaimala.com 119.29.29.29
 xiefenxiang.com 119.29.29.29
-xieheedu.com 119.29.29.29
 xiehejx.com 119.29.29.29
 xiehekjkf.com 119.29.29.29
 xiehuiyi.com 119.29.29.29
@@ -62591,7 +62572,6 @@ zhongniu.com 119.29.29.29
 zhongpaiwang.com 119.29.29.29
 zhongqixin360.com 119.29.29.29
 zhongrenbang.cc 119.29.29.29
-zhongrongjz.com 119.29.29.29
 zhongruigang.com 119.29.29.29
 zhongruihuacheng.com 119.29.29.29
 zhongruitech.com 119.29.29.29
